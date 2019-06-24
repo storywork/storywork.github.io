@@ -166,14 +166,17 @@ div.streifen {
 	padding-bottom: 20px;
 }
 
-.index #home, .soziale_kompetenzen #soziale_kompetenzen, .persoenlichkeitsentwicklung #persoenlichkeitsentwicklung, .coaching_beratung #coaching_beratung, .bibliodrama #bibliodrama, .persoenliches #persoenliches, .kontakt #kontakt {
+.index #index, .soziale-kompetenzen #soziale-kompetenzen, .persönlichkeitsentwicklung #persönlichkeitsentwicklung, .coaching-und-beratung #coaching-und-beratung, .bibliodrama #bibliodrama, .persönliches #persönliches, .kontakt #kontakt {
 	color: rgb(216, 0, 11);
 }
 
 /* Homepage */
 
-blockquote p {
+.index blockquote {
 	font-size: 2em;
+}
+
+blockquote {
 	font-style: italic;
 	font-family: Georgia;
 }
@@ -316,16 +319,13 @@ ul.liney {
 	line-height: 200%;
 }
 
-div.portrait {
-	float: right;
-	width: 200px;
-	margin-left: 50px;
-}
-
 img.portrait {
 	border: none;
 	width: 200px;
 	padding-bottom: 30px;
+	float: right;
+	width: 200px;
+	margin-left: 50px;
 }
 
 #person li {
