@@ -1,0 +1,339 @@
+/* Generell */
+
+h1, h2, h3, h4, h5, h6 {
+	margin: 0px;
+	padding: 0px;
+}
+
+body, button {
+	font-family: Verdana, Helvetica, Arial;
+	font-size: 13pt;
+}
+
+body {
+	padding: 0px;
+	margin: 0px;
+}
+
+header {
+	margin: 0px;
+	padding-top: 10px;
+	padding-bottom: 0px;
+	width: 100%;
+}
+
+p {
+	margin: 0px;
+}
+
+img, div {
+	border: none;
+	padding: 0px;
+	margin: 0px;
+}
+
+.rightbound {
+	text-align: right;
+}
+
+.centered {
+	text-align: center;
+}
+
+.grey {
+	background-color: rgb(230, 230, 230);
+}
+
+/* Allgemeine Boxen */
+
+#everything {
+	max-width: 1000px;
+	width: 100%;
+	margin: 0px auto;
+	overflow: hidden;
+}
+
+#inhalt, #kastenbereich {
+	padding-left: 5px;
+	padding-right: 5px;
+	word-wrap: normal;
+}
+
+/* Textumbrueche */
+
+#inhalt p {
+	word-wrap: break-word;
+	overflow: hidden;
+	text-align: justify;
+	hyphens: auto;
+}
+
+strong {
+	hyphens: manual;
+}
+
+.nobr {
+	white-space: nowrap;
+}
+
+/* Links */
+
+a, a #reffy {
+	color: rgb(216, 0, 11);
+}
+
+#inhalt a {
+	color: black;
+	text-decoration-color: rgb(216, 0, 11);
+}
+
+#inhalt a:hover {
+	color: rgb(216, 0, 11);
+}
+
+footer a {
+	text-decoration: none;
+	color: black;
+}
+
+/* Kopfbereich */
+
+#banner {
+	max-width: 100%;
+	width: auto;
+}
+
+#banner_wrapper {
+	max-width: 910px;
+}
+
+#banner_subtitle {
+	max-width: 100%;
+	width: auto;
+}
+
+#banner #banner_subtitle {
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+/* Streifen */
+
+div.streifen {
+	width: 100%;
+	height: 37px;
+	background-image: url(../img/mobile_stripe.svg);
+	background-repeat: no-repeat;
+	background-size: 100% 37px;
+	background-position: center bottom;
+	background-color: white;
+	margin: 0px;
+	padding: 0px;
+}
+
+/* Navigationsbereich */
+
+#navigation {
+	padding-top: 20px;
+	margin-bottom: 20px;
+	width: 100% - 46px;
+}
+
+#navigation a {
+	padding-top: 0px;
+	margin-top: 0px;
+	font-size: 14pt;
+	color: black;
+	text-decoration: none;
+	font-weight: 500;
+	padding-left: 2px;
+	padding-right: 2px;
+	line-height: 200%;
+}
+
+#navigation a:not(.kontakt) {
+	padding-right: 46px;
+}
+
+#navigation a:hover {
+	color: rgb(216, 0, 11);
+}
+
+#navigation {
+	overflow: hidden;
+	padding-left: 0px;
+	margin-right: -46px;
+	padding-bottom: 20px;
+}
+
+.index #home, .soziale_kompetenzen #soziale_kompetenzen, .persoenlichkeitsentwicklung #persoenlichkeitsentwicklung, .coaching_beratung #coaching_beratung, .bibliodrama #bibliodrama, .persoenliches #persoenliches, .kontakt #kontakt {
+	color: rgb(216, 0, 11);
+}
+
+/* Homepage */
+
+blockquote p {
+	font-size: 2em;
+	font-style: italic;
+	font-family: Georgia;
+}
+
+/* Slide-Kaesten */
+
+#inhalt, #kastenbereich {
+	max-width: 700px;
+}
+
+#kastenbereich {
+	margin: auto;
+	overflow: hidden;
+}
+
+div.kasten p {
+	font-size: 13pt;
+}
+
+div.kasten {
+	background-color: rgb(230, 230, 230);
+	margin-right: 5px;
+	margin-bottom: 20px;
+	width: calc(100%);
+	padding-top: 0px;
+	border-radius: 10px;
+}
+
+p.blocksatz, #kastenbereich, button.accordion, div.accordion {
+	text-align: justify;
+}
+
+/* Fussbereich */
+
+footer {
+	width: 100% - 16px;
+	padding: 8px;
+	padding-bottom: 15px;
+	overflow: auto;
+}
+
+footer a {
+	font-weight: normal;
+}
+
+div.lf {
+	float: left;
+	max-width: 50%;
+}
+
+div.rf {
+	float: right;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+	height: 20px;
+}
+
+img.icon {
+	width: 50px;
+	height: 50px;
+	border: none;
+}
+
+/* slider functioality */
+
+button.accordion, div.accordion {
+	border: none;
+	background-color: rgb(230, 230, 230);
+	cursor: pointer;
+	transition: 0.6s;
+	margin-top: 7px;
+	margin-bottom: 7px;
+	outline: none;
+	border: none;
+	width: 100%;
+	padding-left: 6px;
+	padding-right: 6px;
+}
+
+button.accordion:hover, button.accordion.active, button.accordion.focus, div.accordion:hover, div.accordion.active, div.accordion.focus {
+	outline: none;
+	color: black;
+	padding-left: 6px;
+	padding-right: 6px;
+}
+
+div.panel p {
+	margin: 0px;
+	padding-left: 8px;
+	padding-right: 8px;
+	padding-bottom: 8px;
+}
+
+div.panel {
+	margin-top: 0px;
+	padding-top: 0px;
+	max-height: 0;
+	transition: 0.6s ease-in-out;
+	opacity: 0;
+	overflow: hidden;
+}
+
+div.panel.show {
+	margin-top: 0px;
+	padding-top: 0px;
+	opacity: 1;
+	max-height: 500px;
+}
+
+button.accordion:after, div.accordion:after {
+	content: ' mehr';
+	font-weight: bold;
+	color: rgb(216, 0, 11);
+	float: right;
+	margin-left: 5px;
+}
+
+button.accordion.active:after, div.accordion.active:after {
+	content: ' weniger';
+}
+
+button:active span, button:focus span {
+	position: relative;
+	top: 0;
+	left: 0;
+}
+
+button::-moz-focus-inner, div.accordion::-moz-focus-inner {
+	border: 0;
+}
+
+/* styles for specific embedded contents */
+
+ul.liney {
+	line-height: 1.5;
+	padding-left: 20px;
+}
+
+#double_line_height {
+	line-height: 200%;
+}
+
+div.portrait {
+	float: right;
+	width: 200px;
+	margin-left: 50px;
+}
+
+img.portrait {
+	border: none;
+	width: 200px;
+	padding-bottom: 30px;
+}
+
+#person li {
+	line-height: 180%;
+}
+
+div.accordion {
+	min-height: 44px;
+	max-width: 688px;
+	margin-top: 10px;
+}
