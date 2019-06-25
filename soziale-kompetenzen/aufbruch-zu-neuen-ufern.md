@@ -20,9 +20,7 @@ Was mir fehlen wird, wenn ich nicht mehr im Erwerbsleben stehe – eine Bestands
 
  
 
-Abschied – Umbruch – Neuanfang: Psychologische Tipps für die erfolgreiche Bewältigung
-
-von Übergängen im Leben
+Abschied – Umbruch – Neuanfang: Psychologische Tipps für die erfolgreiche Bewältigung von Übergängen im Leben
 
  
 

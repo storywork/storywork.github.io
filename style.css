@@ -1,35 +1,20 @@
 /* Generell */
 
-h1, h2, h3, h4, h5, h6 {
-	margin: 0px;
-	padding: 0px;
-}
-
-body, button {
-	font-family: Verdana, Helvetica, Arial;
-	font-size: 13pt;
-}
-
 body {
-	padding: 0px;
-	margin: 0px;
+	margin: 0;
+	padding: 0;
+}
+
+main {
+	padding: 5px;
+}
+
+main p {
+	text-align: justify;
 }
 
 header {
-	margin: 0px;
 	padding-top: 10px;
-	padding-bottom: 0px;
-	width: 100%;
-}
-
-p {
-	margin: 0px;
-}
-
-img, div {
-	border: none;
-	padding: 0px;
-	margin: 0px;
 }
 
 .rightbound {
@@ -44,26 +29,20 @@ img, div {
 	background-color: rgb(230, 230, 230);
 }
 
-/* Allgemeine Boxen */
-
-#everything {
+.wrapper {
 	max-width: 1000px;
-	width: 100%;
-	margin: 0px auto;
-	overflow: hidden;
+	margin: auto;
 }
 
-#inhalt, #kastenbereich {
-	padding-left: 5px;
-	padding-right: 5px;
-	word-wrap: normal;
+hr{
+	color: white;
+	border: 0;
 }
 
 /* Textumbrueche */
 
 #inhalt p {
 	word-wrap: break-word;
-	overflow: hidden;
 	text-align: justify;
 	hyphens: auto;
 }
@@ -76,18 +55,28 @@ strong {
 	white-space: nowrap;
 }
 
+.persoenliches main {
+	display: flex;
+	flex-flow: row-reverse;
+	justify-content: space-between;
+}
+
+.persoenliches * {
+	text-align: left;
+}
+
 /* Links */
 
-a, a #reffy {
+header a {
 	color: rgb(216, 0, 11);
 }
 
-#inhalt a {
+main a {
 	color: black;
 	text-decoration-color: rgb(216, 0, 11);
 }
 
-#inhalt a:hover {
+main a:hover {
 	color: rgb(216, 0, 11);
 }
 
@@ -120,53 +109,41 @@ footer a {
 /* Streifen */
 
 div.streifen {
-	width: 100%;
 	height: 37px;
 	background-image: url(../img/mobile_stripe.svg);
 	background-repeat: no-repeat;
 	background-size: 100% 37px;
 	background-position: center bottom;
 	background-color: white;
-	margin: 0px;
-	padding: 0px;
 }
 
 /* Navigationsbereich */
 
-#navigation {
+nav {
 	padding-top: 20px;
+	padding-bottom: 20px;
 	margin-bottom: 20px;
-	width: 100% - 46px;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
 }
 
-#navigation a {
-	padding-top: 0px;
-	margin-top: 0px;
-	font-size: 14pt;
+nav a {
+	padding-left: 30px;
+	padding-right: 30px;
+	font-size: 1.2em;
 	color: black;
 	text-decoration: none;
-	font-weight: 500;
-	padding-left: 2px;
-	padding-right: 2px;
 	line-height: 200%;
+	white-space: nowrap;
 }
 
-#navigation a:not(.kontakt) {
-	padding-right: 46px;
-}
-
-#navigation a:hover {
+nav a:hover {
 	color: rgb(216, 0, 11);
 }
 
-#navigation {
-	overflow: hidden;
-	padding-left: 0px;
-	margin-right: -46px;
-	padding-bottom: 20px;
-}
-
-.index #index, .soziale-kompetenzen #soziale-kompetenzen, .persönlichkeitsentwicklung #persönlichkeitsentwicklung, .coaching-und-beratung #coaching-und-beratung, .bibliodrama #bibliodrama, .persönliches #persönliches, .kontakt #kontakt {
+.index #index, .soziale-kompetenzen #soziale-kompetenzen, .persoenlichkeitsentwicklung #persoenlichkeitsentwicklung, .coaching-und-beratung #coaching-und-beratung, .bibliodrama #bibliodrama, .persoenliches #persoenliches, .kontakt #kontakt {
 	color: rgb(216, 0, 11);
 }
 
@@ -176,6 +153,11 @@ div.streifen {
 	font-size: 2em;
 }
 
+blockquote cite {
+	font-size: initial;
+	font-style: normal;
+}
+
 blockquote {
 	font-style: italic;
 	font-family: Georgia;
@@ -183,22 +165,13 @@ blockquote {
 
 /* Slide-Kaesten */
 
-#inhalt, #kastenbereich {
+main {
 	max-width: 700px;
-}
-
-#kastenbereich {
 	margin: auto;
-	overflow: hidden;
-}
-
-div.kasten p {
-	font-size: 13pt;
 }
 
 div.kasten {
 	background-color: rgb(230, 230, 230);
-	margin-right: 5px;
 	margin-bottom: 20px;
 	width: calc(100%);
 	padding-top: 0px;
@@ -242,37 +215,16 @@ img.icon {
 
 /* slider functioality */
 
-button.accordion, div.accordion {
-	border: none;
-	background-color: rgb(230, 230, 230);
+.accordion {
 	cursor: pointer;
 	transition: 0.6s;
-	margin-top: 7px;
-	margin-bottom: 7px;
-	outline: none;
-	border: none;
-	width: 100%;
-	padding-left: 6px;
-	padding-right: 6px;
 }
 
-button.accordion:hover, button.accordion.active, button.accordion.focus, div.accordion:hover, div.accordion.active, div.accordion.focus {
-	outline: none;
-	color: black;
-	padding-left: 6px;
-	padding-right: 6px;
-}
-
-div.panel p {
-	margin: 0px;
-	padding-left: 8px;
-	padding-right: 8px;
-	padding-bottom: 8px;
+.accordion, div.panel.show {
+	padding: 10px;
 }
 
 div.panel {
-	margin-top: 0px;
-	padding-top: 0px;
 	max-height: 0;
 	transition: 0.6s ease-in-out;
 	opacity: 0;
@@ -280,8 +232,6 @@ div.panel {
 }
 
 div.panel.show {
-	margin-top: 0px;
-	padding-top: 0px;
 	opacity: 1;
 	max-height: 500px;
 }
@@ -298,42 +248,19 @@ button.accordion.active:after, div.accordion.active:after {
 	content: ' weniger';
 }
 
-button:active span, button:focus span {
-	position: relative;
-	top: 0;
-	left: 0;
-}
-
-button::-moz-focus-inner, div.accordion::-moz-focus-inner {
-	border: 0;
-}
-
 /* styles for specific embedded contents */
 
-ul.liney {
-	line-height: 1.5;
-	padding-left: 20px;
-}
-
 #double_line_height {
-	line-height: 200%;
+	line-height: 2em;
 }
 
 img.portrait {
-	border: none;
 	width: 200px;
-	padding-bottom: 30px;
 	float: right;
-	width: 200px;
-	margin-left: 50px;
+	margin-bottom: 20px;
+	margin-left: 20px;
 }
 
 #person li {
-	line-height: 180%;
-}
-
-div.accordion {
-	min-height: 44px;
-	max-width: 688px;
-	margin-top: 10px;
+	line-height: 2em;
 }

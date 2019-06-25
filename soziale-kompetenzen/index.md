@@ -6,7 +6,7 @@ layout: page
 
 [Wer im Gleichgewicht ist, steht stabiler (Resilienz 2)](resilienz-2)
 
-[Reife Leistung - Motiviert und ohne Burnout durchs letzte Berufsdrittel (Resilienz 3)](reife-leistung)
+[Reife Leistung - Motiviert und ohne Burnout durchs letzte Berufsdrittel (Resilienz 3)](resilienz-3)
 
 [Aufbruch zu neuen Ufern - Abschied von der Erwerbsarbeit](aufbruch-zu-neuen-ufern)
 

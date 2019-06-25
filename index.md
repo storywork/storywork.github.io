@@ -2,13 +2,12 @@
 layout: home
 ---
 
+
+
 > Ich probiere Geschichten an wie Kleider.
+<cite>Max Frisch</cite>
 
-– Max Frisch
-
-&nbsp;
-
-&nbsp;
+- - -
 
 Eine Geschichte “anprobieren”,
 

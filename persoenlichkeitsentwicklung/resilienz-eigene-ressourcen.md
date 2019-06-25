@@ -4,7 +4,7 @@ layout: page
 
 # Resilienz - Herausforderungen und Belastungen meistern
 
-# - Die eigenen Kraftquellen aufspüren
+## - Die eigenen Kraftquellen aufspüren
 
 Täglich sind wir Vielem ausgesetzt, das uns aus dem Gleichgewicht bringen kann: Zunehmende Arbeitsverdichtung, Zeitdruck, mehrere "Baustellen" gleichzeitig, Konflikte am Arbeitsplatz, Probleme in der Partnerschaft, usw. Die Gefahr, dass wir auf Anforderungen von außen nur noch "re-agieren" und uns als Getriebene erleben, ist groß.
 

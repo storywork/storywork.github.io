@@ -84,35 +84,35 @@ Anhand eines praktischen Beispiels Faktoren für Vertrauensbildung erarbeiten
 
 ### Die Kunst der deeskalierenden und Vertrauen fördernden Gesprächsführung
 
-*Aktiv Zuhören*
+- __Aktiv Zuhören__
 
-Wie ich meinem Gegenüber aufmerksam und empathisch zuhöre
+    Wie ich meinem Gegenüber aufmerksam und empathisch zuhöre
 
-und ihm das auch zeige
-
-
-
-*Sagen, was mir wichtig ist*
-
-Wie ich bei meinen Anliegen bleibe und auf Unterstellungen verzichte
-
-Die heilsame Wirkung von „Ich-Botschaften“
+    und ihm das auch zeige
 
 
 
-*Negatives taktvoll ansprechen*
+- __Sagen, was mir wichtig ist__
 
-Ein heikles Feld: Kritik üben, ohne den andern zu verletzten und ohne
+    Wie ich bei meinen Anliegen bleibe und auf Unterstellungen verzichte
 
-Abwehrreaktionen auszulösen.  
+    Die heilsame Wirkung von „Ich-Botschaften“
 
 
 
-*Wertschätzung ausstrahlen*
+- __Negatives taktvoll ansprechen__
 
-In der inneren Haltung, in dem, was ich sage und wie ich es sage
+    Ein heikles Feld: Kritik üben, ohne den andern zu verletzten und ohne
 
-und in meinem Verhalten Respekt und Wertschätzung zum Ausdruck bringen.
+    Abwehrreaktionen auszulösen.  
+
+
+
+- __Wertschätzung ausstrahlen__
+
+    In der inneren Haltung, in dem, was ich sage und wie ich es sage
+
+    und in meinem Verhalten Respekt und Wertschätzung zum Ausdruck bringen.
 
            
 
@@ -120,7 +120,6 @@ und in meinem Verhalten Respekt und Wertschätzung zum Ausdruck bringen.
 
 Mitarbeiter/innen der Öffentlichen Verwaltung unterschiedlicher Ebenen und Fachbereiche.
 
- 
 
 ### Vorgehensweise
 

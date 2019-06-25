@@ -46,4 +46,4 @@ Zum Thema "Berufung leben" eine kleine Geschichte von Paulo Coelho (frei wiederg
 
 > Als der Pianist geendet hatte, applaudierten alle begeistert.
 
-Nach Paulo Coelho
+> <cite>Nach Paulo Coelho</cite>

@@ -64,10 +64,8 @@ Wie sich Befürchtungen, negative Phantasien und Ängste vor einem schwierigen G
  
 
 Günstige Kontexte und Rahmenbedingungen für ein gelingendes Kritik- oder Konfliktgespräch:
-
-Das geplante und vorbereitete Gespräch
-
-Die spontane Reaktion
+- Das geplante und vorbereitete Gespräch
+- Die spontane Reaktion
 
  
 

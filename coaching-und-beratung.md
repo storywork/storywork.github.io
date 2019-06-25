@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# Coaching und Psychologische Beratung
+# Coaching und <br> Psychologische Beratung
 
 *Mögliche Themen sind zum Beispiel:*
 
