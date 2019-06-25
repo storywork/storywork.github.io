@@ -4,18 +4,21 @@ layout: home
 
 > Ich probiere Geschichten an wie Kleider.
 
-> Max Frisch
+– Max Frisch
 
+&nbsp;
 
-Eine Geschichte "anprobieren",
+&nbsp;
 
-erleben und spüren, wie es sich darin anfühlt. 
+Eine Geschichte “anprobieren”,
+
+erleben und sp&uuml;ren, wie es sich darin anf&uuml;hlt.
 
 Einige Schritte darin machen wie in einem neuen Kleid.
 
-Andere fragen, wie es mir steht ...
+Andere fragen, wie es mir steht …
 
-Ein spielerischer und experimenteller Umgang mit Geschichten. 
+Ein spielerischer und experimenteller Umgang mit Geschichten.
 
 Neue Standpunkte einnehmen
 
@@ -26,4 +29,3 @@ Neue Perspektiven wahrnehmen
 Neue Handlungsmöglichkeiten entdecken
 
 Neue Wege zu Problemlösungen kennen lernen.
-{: #double_line_height}
