@@ -16,4 +16,4 @@ layout: page
 
 ["Negatives" taktvoll ansprechen](negatives-taktvoll-ansprechen)
 
-[Bürger angenehm überraschen - Schriftliche Kommunikation, die "ankommt"](bürger-überraschen)
+[Bürger angenehm überraschen - Schriftliche Kommunikation, die "ankommt"](buerger-ueberraschen)
