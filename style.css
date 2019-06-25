@@ -59,7 +59,7 @@ strong {
 	display: flex;
 	flex-flow: row-reverse;
 	justify-content: space-between;
-	flex-wrap: wrap-reverse;
+	flex-wrap: wrap;
 }
 
 .persoenliches * {
