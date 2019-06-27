@@ -55,6 +55,10 @@ strong {
 	white-space: nowrap;
 }
 
+.index main {
+    text-align: center;
+}
+
 .persoenliches main {
 	display: flex;
 	flex-flow: row-reverse;
