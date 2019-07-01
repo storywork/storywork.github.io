@@ -2,6 +2,8 @@
 layout: page
 ---
 
+## Soziale Kompetenzen
+
 [Resilienz - Herausforderungen und Belastungen erfolgreich bewältigen (Resilienz 1)](resilienz-1)
 
 [Wer im Gleichgewicht ist, steht stabiler (Resilienz 2)](resilienz-2)

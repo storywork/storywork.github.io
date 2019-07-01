@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# Lieben, was ist
+## Lieben, was ist
 
 Es ist eine Zumutung. Wie kann ich "lieben was ist"? Es gibt so viele gute Gründe, mit meiner gegenwärtigen Lebenssituation unzufrieden zu sein. Ich träume von einer Zukunft, in der ich anders, besser, authentischer leben werde. Ich hadere mit den verpassten Gelegenheiten der Vergangenheit und den Defiziten meiner Gegenwart. Es ist sehr verständlich und berechtigt, dass ich so denke und fühle. Nur spüre ich dabei meine Lebendigkeit nicht mehr. Ich lasse mich nicht ein auf das wirkliche Leben. Ich hadere und träume.
 

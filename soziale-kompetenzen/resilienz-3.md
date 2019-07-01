@@ -2,11 +2,9 @@
 layout: page
 ---
 
-# „Reife Leistung“
+## „Reife Leistung“
 
-## – Motiviert und ohne Burnout durchs letzte Berufsdrittel (Resilienz 3)
-
- 
+### – Motiviert und ohne Burnout durchs letzte Berufsdrittel (Resilienz 3)
 
 Mit zunehmendem Alter verändert sich das Leistungsprofil. Manche Fähigkeiten, wie zum Beispiel Ausdauer und Konzentrationsfähigkeit, lassen nach. Andere Fähigkeiten nehmen zu: Erfahrung, Intuition, Übersicht, emotionale Stabilität, um nur einige zu nennen.
 
@@ -16,57 +14,32 @@ Oder habe ich das Gefühl, nicht mehr gebraucht zu werden, nicht mehr mithalten 
 
 Als älterer Berufstätiger gesund, fit und motiviert zu sein, offen und neugierig zu bleiben, sich weiterzubilden und geistig „am Ball“ zu bleiben, die eigenen Grenzen zu kennen und die Stärken zum Nutzen des Unternehmens einzusetzen – das alles ist nicht selbstverständlich. Man muss etwas dafür tun! Es ist vor allem wichtig, an der eigenen Einstellung zu arbeiten. Das Seminar gibt dafür wertvolle Impulse.
 
- 
-
 ### Inhalte
 
- 
-
-Das eigene Bild vom Älterwerden überprüfen:
-
+Das eigene Bild vom Älterwerden überprüfen:<br>
 Denke ich defizitorientiert oder ressourcenorientiert?
 
- 
-
-Selbstwertgefühl und Motivation stärken: Was kann ich und was ist mir wichtig?
-
+Selbstwertgefühl und Motivation stärken: Was kann ich und was ist mir wichtig?<br>
 Wo werde ich gebraucht und wofür engagiere ich mich gerne?
 
- 
-
 „Reife Leistung“ bringen: Stärken zeigen, Verantwortung übernehmen, vertrauenswürdig sein, Wissen teilen
-
- 
 
 Typische Fallen in der Zusammenarbeit zwischen Älteren und Jüngeren vermeiden.
 
 „Platzhirsch“? „Übermutter“? „Opferrolle“? – Wie ich aus destruktiven Mustern aussteige und eine konstruktive Rolle in meinem Team finde
 
- 
+Burnoutprävention: Work-Life-Balance, „gesunde“ Lebenseinstellung, Resilienz, Bewegung und Ernährung
 
-Burnoutprävention: Work-Life-Balance, „gesunde“ Lebenseinstellung, Resilienz,
-
-Bewegung und Ernährung
-
- 
-
-Motivation fördern:
-
+Motivation fördern: <br>
 Vernetzung mit Gleichaltrigen, Weiterbildung, evtl. Teilzeitarbeit
-
- 
 
 ### Zielgruppe
 
-Mitarbeiter/innen der Altersgruppe „50 plus“, die ihre Gesundheit und Leistungs-fähigkeit erhalten und ihre Arbeitszufriedenheit und Motivation steigern wollen
-
- 
+Mitarbeiter/innen der Altersgruppe „50 plus“, die ihre Gesundheit und Leistungs-fähigkeit erhalten und ihre Arbeitszufriedenheit und Motivation steigern wollen.
 
 ### Methodik
 
-Kurze Theorieblocks, Austausch und Analyse bisheriger Erfahrungen der Teilnehmenden, praktische Übungen in der Kleingruppe, Feedback
-
- 
+Kurze Theorieblocks, Austausch und Analyse bisheriger Erfahrungen der Teilnehmenden, praktische Übungen in der Kleingruppe, Feedback.
 
 Das Seminar ist in der Regel eintägig.
 

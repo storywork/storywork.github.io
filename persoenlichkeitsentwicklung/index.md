@@ -2,6 +2,8 @@
 layout: page
 ---
 
+## Persönlichkeitsentwicklung
+
 [Meine Berufung leben](meine-berufung-leben)
 
 [Lieben was ist](lieben-was-ist)

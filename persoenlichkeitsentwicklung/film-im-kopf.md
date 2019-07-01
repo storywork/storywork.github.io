@@ -2,8 +2,8 @@
 layout: page
 ---
 
-# „Mein Leben ist so gut wie der Film in meinem Kopf“
-## Warum ich mich besser fühle, wenn ich mir meine Geschichte versöhnlicher, konstruktiver und sinnstiftender erzähle
+## „Mein Leben ist so gut wie der Film in meinem Kopf“
+### Warum ich mich besser fühle, wenn ich mir meine Geschichte versöhnlicher, konstruktiver und sinnstiftender erzähle
 
 Nicht allein die äußeren Umstände und Erlebnisse bestimmen mein Leben. Entscheidend ist die Geschichte, die ich mir selbst dazu erzähle. Der Film, der in meinem Kopf abläuft. Häufig ist das ein Film, der mich nicht glücklich macht, der meine Stimmung dämpft oder mein Selbstwertgefühl schwächt.
 
