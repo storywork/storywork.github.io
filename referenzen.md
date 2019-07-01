@@ -4,7 +4,7 @@ layout: page
 
 # Referenzen
 
-* _*Meine Auftraggeber im Bereich Öffentliche Verwaltung:*_
+__Meine Auftraggeber im Bereich Öffentliche Verwaltung:__
 
 * Hochschule für Öffentliche Verwaltung und Finanzen in Ludwigsburg.
 * Lehrauftrag seit 2002 (Sozialpsychologisches Gruppentraining, Teamarbeit, Kommunikation)

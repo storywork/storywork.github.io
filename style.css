@@ -1,5 +1,9 @@
 /* Generell */
 
+* {
+	max-width: 100%;
+}
+
 html, body, .wrapper {
 	height: 100%;
 }
@@ -18,7 +22,7 @@ body {
 	margin: auto;
 }
 
-header, main, footer {
+main, footer {
 	padding: 5px;
 }
 
@@ -83,16 +87,20 @@ main p {
 	text-align: justify;
 }
 
-blockquote {
+main ul {
+	padding: 15px;
+}
+
+main blockquote {
 	font-style: italic;
 	font-family: Georgia;
 }
 
-blockquote cite {
+main blockquote cite {
 	font-size: initial;
 }
 
-hr {
+main hr {
 	color: white;
 	border: 0;
 }
@@ -132,17 +140,23 @@ main strong {
 .persoenliches main {
 	display: flex;
 	flex-direction: row;
-	justify-content: space-between;
 	flex-wrap: wrap-reverse;
+	justify-content: right;
+	align-items: flex-end;
+}
+
+.persoenliches a {
+	color: rgb(216, 0, 11);
 }
 
 .persoenliches main div {
-	max-width: 480px;
-	margin-right: 20px;
+	max-width: 485px;
+	margin: auto;
 }
 
 .persoenliches img.portrait {
 	width: 200px;
+	margin-left: 15px;
 }
 
 /* Links */
