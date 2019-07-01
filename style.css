@@ -1,80 +1,151 @@
 /* Generell */
 
+html, body, .wrapper {
+	height: 100%;
+}
+
 body {
 	margin: 0;
 	padding: 0;
+	font-family: Helvetica, sans-serif;
 }
 
-main {
+.wrapper {
+	display: flex;
+	flex-direction: column;
+	align-items: stretch;
+	max-width: 1000px;
+	margin: auto;
+}
+
+header, main, footer {
 	padding: 5px;
+}
+
+nav, footer {
+	background-color: rgb(230, 230, 230);
+	background-image: url(../img/mobile_stripe.svg);
+	background-repeat: no-repeat;
+	background-size: 100% 37px;
+	background-position: center top;
+	padding-top: 52px;
+	padding-bottom: 20px;
+}
+
+/* Kopfbereich */
+
+header {
+	padding-top: 10px;
+	text-align: right;
+}
+
+header div {
+	max-width: 910px;
+}
+
+/* Navigationsleiste */
+
+nav {
+	text-align: center;
+	line-height: 2em;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+nav a {
+	padding-left: 35px;
+	padding-right: 35px;
+	font-size: 1.2em;
+	color: black;
+	text-decoration: none;
+	line-height: 200%;
+	white-space: nowrap;
+}
+
+nav a:hover {
+	color: rgb(216, 0, 11);
+}
+
+.index a#index, .soziale-kompetenzen a#soziale-kompetenzen, .persoenlichkeitsentwicklung a#persoenlichkeitsentwicklung, .coaching-und-beratung a#coaching-und-beratung, .bibliodrama a#bibliodramalink, .persoenliches a#persoenliches, .kontakt a#kontakt {
+	color: rgb(216, 0, 11);
+}
+
+/* Inhaltsbereich */
+
+main {
+	max-width: 700px;
+	margin: auto;
 }
 
 main p {
 	text-align: justify;
 }
 
-header {
-	padding-top: 10px;
+blockquote {
+	font-style: italic;
+	font-family: Georgia;
 }
 
-.rightbound {
-	text-align: right;
+blockquote cite {
+	font-size: initial;
 }
 
-.centered {
-	text-align: center;
-}
-
-.grey {
-	background-color: rgb(230, 230, 230);
-}
-
-.wrapper {
-	max-width: 1000px;
-	margin: auto;
-}
-
-hr{
+hr {
 	color: white;
 	border: 0;
 }
 
+/* Fußbereich */
+
+footer {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
 /* Textumbrueche */
 
-#inhalt p {
+main p {
 	word-wrap: break-word;
 	text-align: justify;
 	hyphens: auto;
 }
 
-strong {
+main strong {
 	hyphens: manual;
 }
 
-.nobr {
-	white-space: nowrap;
+/* Seitenspezifisches */
+
+.index main p {
+	text-align: center;
+	line-height: 2em;
 }
 
-.index main {
-    text-align: center;
+.index blockquote p {
+	font-size: 2em;
+	line-height: 1;
 }
 
 .persoenliches main {
 	display: flex;
-	flex-flow: row-reverse;
+	flex-direction: row;
 	justify-content: space-between;
 	flex-wrap: wrap-reverse;
 }
 
-.persoenliches * {
-	text-align: left;
+.persoenliches main div {
+	max-width: 480px;
+	margin-right: 20px;
+}
+
+.persoenliches img.portrait {
+	width: 200px;
 }
 
 /* Links */
-
-header a {
-	color: rgb(216, 0, 11);
-}
 
 main a {
 	color: black;
@@ -90,90 +161,7 @@ footer a {
 	color: black;
 }
 
-/* Kopfbereich */
-
-#banner {
-	max-width: 100%;
-	width: auto;
-}
-
-#banner_wrapper {
-	max-width: 910px;
-}
-
-#banner_subtitle {
-	max-width: 100%;
-	width: auto;
-}
-
-#banner #banner_subtitle {
-	padding-left: 5px;
-	padding-right: 5px;
-}
-
-/* Streifen */
-
-div.streifen {
-	height: 37px;
-	background-image: url(../img/mobile_stripe.svg);
-	background-repeat: no-repeat;
-	background-size: 100% 37px;
-	background-position: center bottom;
-	background-color: white;
-}
-
-/* Navigationsbereich */
-
-nav {
-	padding-top: 20px;
-	padding-bottom: 20px;
-	margin-bottom: 20px;
-	display: flex;
-	flex-direction: row;
-	flex-wrap: wrap;
-	justify-content: center;
-}
-
-nav a {
-	padding-left: 30px;
-	padding-right: 30px;
-	font-size: 1.2em;
-	color: black;
-	text-decoration: none;
-	line-height: 200%;
-	white-space: nowrap;
-}
-
-nav a:hover {
-	color: rgb(216, 0, 11);
-}
-
-.index #index, .soziale-kompetenzen #soziale-kompetenzen, .persoenlichkeitsentwicklung #persoenlichkeitsentwicklung, .coaching-und-beratung #coaching-und-beratung, .bibliodrama #bibliodrama, .persoenliches #persoenliches, .kontakt #kontakt {
-	color: rgb(216, 0, 11);
-}
-
-/* Homepage */
-
-.index blockquote {
-	font-size: 2em;
-}
-
-blockquote cite {
-	font-size: initial;
-	font-style: normal;
-}
-
-blockquote {
-	font-style: italic;
-	font-family: Georgia;
-}
-
 /* Slide-Kaesten */
-
-main {
-	max-width: 700px;
-	margin: auto;
-}
 
 div.kasten {
 	background-color: rgb(230, 230, 230);
@@ -183,42 +171,9 @@ div.kasten {
 	border-radius: 10px;
 }
 
-p.blocksatz, #kastenbereich, button.accordion, div.accordion {
+div.kasten * {
 	text-align: justify;
 }
-
-/* Fussbereich */
-
-footer {
-	width: 100% - 16px;
-	padding: 8px;
-	padding-bottom: 15px;
-	overflow: auto;
-}
-
-footer a {
-	font-weight: normal;
-}
-
-div.lf {
-	float: left;
-	max-width: 50%;
-}
-
-div.rf {
-	float: right;
-	padding-bottom: 0px;
-	margin-bottom: 0px;
-	height: 20px;
-}
-
-img.icon {
-	width: 50px;
-	height: 50px;
-	border: none;
-}
-
-/* slider functioality */
 
 .accordion {
 	cursor: pointer;
@@ -251,21 +206,4 @@ button.accordion:after, div.accordion:after {
 
 button.accordion.active:after, div.accordion.active:after {
 	content: ' weniger';
-}
-
-/* styles for specific embedded contents */
-
-#double_line_height {
-	line-height: 2em;
-}
-
-img.portrait {
-	width: 200px;
-	float: right;
-	margin-bottom: 20px;
-	margin-left: 20px;
-}
-
-#person li {
-	line-height: 2em;
 }

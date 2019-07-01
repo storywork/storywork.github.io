@@ -2,10 +2,7 @@
 layout: home
 ---
 
-
-
-> Ich probiere Geschichten an wie Kleider.
-
+>Ich probiere Geschichten an wie Kleider.
 <cite>Max Frisch</cite>
 
 - - -
@@ -20,12 +17,12 @@ Andere fragen, wie es mir steht …
 
 Ein spielerischer und experimenteller Umgang mit Geschichten.
 
-Neue Standpunkte einnehmen
+Neue Standpunkte einnehmen.
 
-Neue Rollen ausprobieren
+Neue Rollen ausprobieren.
 
-Neue Perspektiven wahrnehmen
+Neue Perspektiven wahrnehmen.
 
-Neue Handlungsmöglichkeiten entdecken
+Neue Handlungsmöglichkeiten entdecken.
 
 Neue Wege zu Problemlösungen kennen lernen.

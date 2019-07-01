@@ -14,7 +14,7 @@
    viewBox="0 0 100 100"
    preserveAspectRatio="none"
    sodipodi:docname="mobile_stripe.svg"
-   inkscape:version="0.92.2 2405546, 2018-03-11">
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -25,17 +25,29 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="768"
+     inkscape:window-height="745"
      id="namedview8"
      showgrid="false"
-     inkscape:zoom="3.337544"
-     inkscape:cx="9.3761705"
-     inkscape:cy="37.407721"
+     inkscape:zoom="9.44"
+     inkscape:cx="45.08066"
+     inkscape:cy="92.189312"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2"
-     inkscape:snap-page="true" />
+     inkscape:snap-page="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-text-baseline="true" />
   <metadata
      id="metadata8">
     <rdf:RDF>
@@ -57,16 +69,14 @@
      height="41.991505"
      x="3.2890357e-15"
      y="58.008499" />
-  <rect
-     y="0.00058374368"
-     x="0"
-     height="53.410965"
-     width="99.710892"
-     id="rect816"
-     style="opacity:1;fill:#ffffff;stroke:none;stroke-width:0.18829761" />
   <path
-     style="fill:#d80711;stroke:#d80711;stroke-width:0.10164101;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 72.610976,96.941891 C 67.865045,95.398868 62.246972,91.442204 50.714812,81.521015 42.683382,74.611511 39.582688,72.046239 35.327304,68.79055 30.654776,65.215708 16.311278,63.87383 12.22723,66.629471 7.5805662,69.764726 1.13452,78.648294 0.28216577,80.213502 L 0,80.731654 V 52.349393 22.989784 L 0.35740328,22.11082 C 1.3796788,19.596789 7.5994708,11.025061 12.302477,7.7799873 16.293195,5.0263903 30.695534,6.3750293 35.214438,9.925472 40.840273,14.345613 43.631904,16.661405 50.601945,22.690155 68.683451,38.329779 77.130201,41.96228 85.327309,37.623722 91.023368,34.608915 97.120104,28.257694 99.341597,23.02445 L 100,21.473464 v 29.726274 29.726285 l -0.884136,1.388165 C 90.565825,95.738615 82.537605,100.16929 72.610976,96.941891 Z"
+     style="opacity:1;fill:#ffffff;stroke:none;stroke-width:0.18857035"
+     d="M 0,0 V 53.412109 H 100 V 0 Z"
+     id="rect816"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#d80711;stroke:#d80711;stroke-width:0.1015894;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 72.588006,96.941917 C 67.846896,95.398892 62.23453,91.442226 50.714086,81.521031 42.690815,74.611523 39.593271,72.046251 35.34221,68.79056 30.674429,65.215716 16.345502,63.873836 12.265603,66.629479 7.6236598,69.764736 1.1841621,78.648308 0.33267379,80.213518 L 0.05079467,80.73167 V 52.349393 22.989768 L 0.40783486,22.110804 C 1.4290719,19.596771 7.6425452,11.025037 12.340774,7.7799623 16.327438,5.0263639 30.715145,6.3750036 35.229459,9.9254482 40.849578,14.345591 43.638373,16.661385 50.601334,22.690139 68.664471,38.329771 77.10264,41.962274 85.29142,37.623714 90.981693,34.608905 97.072235,28.25768 99.291471,23.024434 l 0.657734,-1.550988 v 29.726292 29.726301 l -0.883237,1.388165 C 90.524614,95.738639 82.50455,100.16931 72.588006,96.941917 Z"
      id="path854"
      inkscape:connector-curvature="0" />
 </svg>

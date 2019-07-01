@@ -27,5 +27,4 @@ layout: page
 * Vorsitzender des Vereins "W.ORTSPIEL - Werkstatt für Bibliodrama e.V."
 
 </div>
-
 <img title="Ulf Pomerenke" src="{{ "/img/klein.jpg" | relative_path }}" alt="Portrait Ulf Pomerenke" class="portrait" />
