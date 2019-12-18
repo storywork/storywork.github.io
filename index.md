@@ -2,7 +2,7 @@
 layout: home
 ---
 
-> Ich probiere Geschichten an wie Kleider.
+> Ich probiere Geschichten an wie Kleider
 >
 >
 > <cite>Max Frisch</cite>
