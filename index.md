@@ -2,16 +2,14 @@
 layout: home
 ---
 
-> Ich probiere Geschichten an wie Kleider.
->
->
-> <cite>Max Frisch</cite>
+>Ich probiere Geschichten an wie Kleider.
+<cite>Max Frisch</cite>
 
----
+- - -
 
 Eine Geschichte “anprobieren”,
 
-erleben und sp&uuml;ren, wie es sich darin anf&uuml;hlt.
+erleben und spüren, wie es sich darin anfühlt.
 
 Einige Schritte darin machen wie in einem neuen Kleid.
 
