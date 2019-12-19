@@ -1,6 +1,6 @@
 backend:
-  name: github
-  repo: storywork/storywork.github.io
+  name: git-gateway
+  branch: master
 media_folder: "img"
 collections:
   - name: "sites"
