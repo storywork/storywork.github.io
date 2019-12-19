@@ -1,6 +1,6 @@
 backend:
-  name: git-gateway
-  branch: master
+  name: github
+  repo: storywork/storywork.github.io
 media_folder: "img"
 collections:
   - name: "sites"
@@ -10,6 +10,3 @@ collections:
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
       - {label: "Title", name: "title", widget: "string"}
-backend:
-  name: github
-  repo: storywork/storywork.github.io
