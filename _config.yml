@@ -1,8 +1,15 @@
+---
 title: Storywork Seminare
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 email: ulfpomerenke@web.de
 description: Storywork Seminare – Menschen bewegen mit Geschichten.
-url: "https://storywork-seminare.de"
-github_username:  storywork
-
-# Build settings
+url: https://storywork-seminare.de
+github_username: storywork
 markdown: kramdown
