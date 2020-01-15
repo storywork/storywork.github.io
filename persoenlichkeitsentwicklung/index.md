@@ -14,4 +14,4 @@ layout: page
 
 [Resilienz - Die eigenen Kraftquellen aufspüren](resilienz-eigene-ressourcen)
 
-[Neues Haribo Seminar](haribo)
+
