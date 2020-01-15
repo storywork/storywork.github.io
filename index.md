@@ -24,4 +24,4 @@ Neue Perspektiven wahrnehmen.
 
 Neue Handlungsmöglichkeiten entdecken.
 
-Neue Wege zu Problemlösungen kennen lernen.
+Neue Wege zu Problemlösungen kennen lernen!
