@@ -29,5 +29,5 @@ layout: page
 </div>
 
 {::nomarkdown}
-<img title="Ulf Pomerenke" src="{{ "/img/bildulf.jpg" | relative_path }}" alt="Portrait Ulf Pomerenke" class="portrait">
+<img title="Ulf Pomerenke" src="{{ "/img/klein.jpg" | relative_path }}" alt="Portrait Ulf Pomerenke" class="portrait">
 {:/}
