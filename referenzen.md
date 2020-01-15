@@ -6,53 +6,53 @@ layout: page
 
 __Meine Auftraggeber im Bereich Öffentliche Verwaltung:__
 
-* Hochschule für Öffentliche Verwaltung und Finanzen in Ludwigsburg.
-* Lehrauftrag seit 2002 (Sozialpsychologisches Gruppentraining, Teamarbeit, Kommunikation)
+- Hochschule für Öffentliche Verwaltung und Finanzen in Ludwigsburg.
+- Lehrauftrag seit 2002 (Sozialpsychologisches Gruppentraining, Teamarbeit, Kommunikation)
 
-* Landratsamt Aalen (Ostalbkreis)
+- Landratsamt Aalen (Ostalbkreis)
 
-* Landratsamt Böblingen
+- Landratsamt Böblingen
 
-* Stadtverwaltung Ettlingen
+- Stadtverwaltung Ettlingen
 
-* Stadtverwaltung Filderstadt
+- Stadtverwaltung Filderstadt
 
-* Stadtverwaltung Geislingen an der Steige
+- Stadtverwaltung Geislingen an der Steige
 
-* Stadtverwaltung Göppingen
+- Stadtverwaltung Göppingen
 
-* Stadtverwaltung Heilbronn
+- Stadtverwaltung Heilbronn
 
-* Landratsamt Heidenheim
+- Landratsamt Heidenheim
 
-* Stadtverwaltung Konstanz (Kooperation mit Firma Translake)
+- Stadtverwaltung Konstanz (Kooperation mit Firma Translake)
 
-* Landratsamt Mosbach (Neckar-Odenwald-Kreis)
+- Landratsamt Mosbach (Neckar-Odenwald-Kreis)
 
-* Landratsamt Offenburg (Ortenaukreis)
+- Landratsamt Offenburg (Ortenaukreis)
 
-* Stadtverwaltung Ostfildern
+- Stadtverwaltung Ostfildern
 
-* Stadtverwaltung Radolfzell (Kooperation mit Firma Translake)
+- Stadtverwaltung Radolfzell (Kooperation mit Firma Translake)
 
-* Landratsamt Ravensburg
+- Landratsamt Ravensburg
 
-* Stadtverwaltung Schwäbisch Gmünd
+- Stadtverwaltung Schwäbisch Gmünd
 
-* Stadtbibliothek Schwäbisch Gmünd
+- Stadtbibliothek Schwäbisch Gmünd
 
-* Stadtverwaltung Schwäbisch Hall
+- Stadtverwaltung Schwäbisch Hall
 
-* Stadtverwaltung Singen (Kooperation mit Firma Translake)
+- Stadtverwaltung Singen (Kooperation mit Firma Translake)
 
-* Stadtverwaltung Stuttgart
+- Stadtverwaltung Stuttgart
 
-* Landratsamt Tauberbischofsheim (Main-Tauber-Kreis)
+- Landratsamt Tauberbischofsheim (Main-Tauber-Kreis)
 
-* Landratsamt Tübingen
+- Landratsamt Tübingen
 
-* Stadtverwaltung Tuttlingen (Kooperation mit Firma Translake)
+- Stadtverwaltung Tuttlingen (Kooperation mit Firma Translake)
 
-* Stadtverwaltung Überlingen (Kooperation mit Firma Translake)
+- Stadtverwaltung Überlingen (Kooperation mit Firma Translake)
 
-* Landratsamt Villingen-Schwenningen (Schwarzwald-Baar-Kreis)
+- Landratsamt Villingen-Schwenningen (Schwarzwald-Baar-Kreis)

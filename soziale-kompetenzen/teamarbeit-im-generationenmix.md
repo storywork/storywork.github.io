@@ -14,31 +14,31 @@ Im Seminar werden die individuellen Leistungsprofile mit ihren altersspezifische
 
 ### Inhalt
 
-*Erfahrung und Innovation – ein unschlagbares Gespann*
+_Erfahrung und Innovation – ein unschlagbares Gespann_
 
 Neuere Forschungsergebnisse über die Leistungsprofile verschiedener Lebensalter
 
-*Was bremst mein Team?*
+_Was bremst mein Team?_
 
 „Platzhirsch“, „Übermutter“, „Senkrechtstarter“, „Greenhorn“ – es gibt etliche altersspezifische Rollen, die nicht besonders teamdienlich sind.
 
 Wie treten sie in Erscheinung? Und wie kann man aus ihnen aussteigen?
 
-*Das „Drama-Dreieck“*
+_Das „Drama-Dreieck“_
 
 Ein Diagnoseinstrument aus der Transaktionsanalyse, das uns hilft, eine konfliktträchtige Dynamik im Team zu verstehen und zu verändern.
 
-*„Wie sag ich's meinem Kinde?“*
+_„Wie sag ich's meinem Kinde?“_
 
 Probleme im Team ansprechen, taktvoll und ohne zu verletzen
 
-*Sich selbst und andere wertschätzen – in aller Verschiedenheit*
+_Sich selbst und andere wertschätzen – in aller Verschiedenheit_
 
 Einige Impulse in Anlehnung an die Rollenmodelle von Fritz Riemann und
 
 Meredith Belbin
 
-*Teamgeist und Synergieeffekte*
+_Teamgeist und Synergieeffekte_
 
 Die „Chemie“ muss stimmen, das Vertrauen muss da sein
 

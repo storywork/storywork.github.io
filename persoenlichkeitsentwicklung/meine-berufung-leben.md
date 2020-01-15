@@ -18,17 +18,8 @@ Außerdem setzen wir uns mit den Tücken und Hindernissen auf dem Weg zur eigene
 
 Ziel des Seminars ist es, der eigenen Berufung auf die Spur zu kommen und durch verschiedene Impulse zum Gehen eines ganz eigenen Weges ermutigt zu werden.
 
- 
-
- 
-
- 
-
- 
-
 Zum Thema "Berufung leben" eine kleine Geschichte von Paulo Coelho (frei wiedergegeben):
 
- 
 
 > Eine Freundin besuchte einmal eine Theateraufführung am Broadway.
 
@@ -46,4 +37,4 @@ Zum Thema "Berufung leben" eine kleine Geschichte von Paulo Coelho (frei wiederg
 
 > Als der Pianist geendet hatte, applaudierten alle begeistert.
 
-> <cite>Nach Paulo Coelho</cite>
+_Nach Paulo Coelho_

@@ -14,7 +14,7 @@ Es macht einen großen Unterschied, ob ein Brief bürgerorientiert formuliert is
 
 Grade bei negativen Inhalten, z. B. der Ablehnung eines Antrags, kann die Akzeptanz beim Empfänger wesentlich gesteigert werden, wenn dieser das Gefühl bekommt: Ich wurde mit meinem Anliegen wirklich gehört und ernst genommen.
 
-*Die Behörde bzw. der/die Verwaltungsangestellte begegnet mir freundlich, respektvoll und mit Wertschätzung.*
+_Die Behörde bzw. der/die Verwaltungsangestellte begegnet mir freundlich, respektvoll und mit Wertschätzung._
 
 - Wie kann ich eine solche Haltung sprachlich zum Ausdruck bringen?
 

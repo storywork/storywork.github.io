@@ -34,10 +34,10 @@ Die Palette von Möglichkeiten kennen lernen. Die eigene Form finden.
 Kommunikationspsychologische Hilfestellungen für eine „klare Ansage“ in nicht-aggressiver Form.
 
 Gesprächsstrategien: Kritik, die „ankommt“ und nicht verletzt:
-* Kritik nicht auf die Person beziehen, sondern auf das Verhalten der Person,
-* Wahrnehmungen und Bedürfnisse ausdrücken statt Interpretationen und Mutmaßungen anzustellen,
-* Gemeinsam Lösungen suchen statt einseitig Forderungen stellen
-* Ein Problem ansprechen und gleichzeitig die Beziehung pflegen
+- Kritik nicht auf die Person beziehen, sondern auf das Verhalten der Person,
+- Wahrnehmungen und Bedürfnisse ausdrücken statt Interpretationen und Mutmaßungen anzustellen,
+- Gemeinsam Lösungen suchen statt einseitig Forderungen stellen
+- Ein Problem ansprechen und gleichzeitig die Beziehung pflegen
 
 Diese gesprächsstrategischen Vorgehensweisen (und andere mehr) erproben wir in praktischen Übungen in der Kleingruppe mit anschließender Reflektion.
 
