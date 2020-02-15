@@ -53,4 +53,4 @@ Mitarbeiter/innen der Öffentlichen Verwaltung unterschiedlicher Ebenen und Fach
 
 ### Vorgehensweise
 
-Zu jedem der genannten Themen werden Informationen aus den Bereichen Psychologie und Gesprächstechnik vermittelt. Die Informationen werden mit Beispielen aus der Öffentlichen Verwaltung konkretisiert, die Fragen und Anregungen der Teilnehmer/innen werden diskutiert. Anschließend wird der vermittelte Inhalt anhand praktischer Übungen von den Seminarteilnehmern angewendet und eingeübt. Test 3
+Zu jedem der genannten Themen werden Informationen aus den Bereichen Psychologie und Gesprächstechnik vermittelt. Die Informationen werden mit Beispielen aus der Öffentlichen Verwaltung konkretisiert, die Fragen und Anregungen der Teilnehmer/innen werden diskutiert. Anschließend wird der vermittelte Inhalt anhand praktischer Übungen von den Seminarteilnehmern angewendet und eingeübt.
