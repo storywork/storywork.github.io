@@ -1,8 +1,4 @@
----
-layout: page
----
-
-## Persönlichkeitsentwicklung
+# Persönlichkeitsentwicklung
 
 [Meine Berufung leben](meine-berufung-leben)
 
@@ -13,3 +9,5 @@ layout: page
 [Coming Home - Bei sich selber ankommen](coming-home)
 
 [Resilienz - Die eigenen Kraftquellen aufspüren](resilienz-eigene-ressourcen)
+
+

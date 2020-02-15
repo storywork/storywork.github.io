@@ -1,8 +1,4 @@
----
-layout: page
----
-
-## Soziale Kompetenzen
+# Soziale Kompetenzen
 
 [Resilienz - Herausforderungen und Belastungen erfolgreich bewältigen (Resilienz 1)](resilienz-1)
 

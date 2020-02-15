@@ -2,7 +2,7 @@
 layout: page
 ---
 
-## Ulf Pomerenke
+# Ulf Pomerenke
 
 - Freiberuflicher Seminarleiter, Dozent und Coach
 

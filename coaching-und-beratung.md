@@ -1,8 +1,4 @@
----
-layout: page
----
-
-## Coaching und Psychologische Beratung
+# Coaching und Psychologische Beratung
 
 _Mögliche Themen sind zum Beispiel:_
 
