@@ -1,8 +1,4 @@
----
-layout: page
----
-
-## Persönlichkeitsentwicklung
+# Persönlichkeitsentwicklung
 
 [Meine Berufung leben](meine-berufung-leben)
 
