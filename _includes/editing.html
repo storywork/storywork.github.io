@@ -2,8 +2,8 @@
   const editor = (repository, path, text, frontmatter, content) => {
     let count = 0
     const easyMDE = new EasyMDE({
-      initialValue: text,
       forceSync: true,
+      initialValue: text,
       minHeight: '500px',
       spellChecker: false,
       toolbar: [
