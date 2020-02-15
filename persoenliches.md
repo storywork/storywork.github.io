@@ -24,6 +24,4 @@ layout: page
 
 - Vorsitzender des Vereins "W.ORTSPIEL - Werkstatt für Bibliodrama e.V."
 
-- Test 1
-
 <img title="Ulf Pomerenke" src="img/klein.jpg" alt="Portrait Ulf Pomerenke" class="portrait">
