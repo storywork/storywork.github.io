@@ -15,5 +15,3 @@
 ["Negatives" taktvoll ansprechen](negatives-taktvoll-ansprechen)
 
 [Bürger angenehm überraschen - Schriftliche Kommunikation, die "ankommt"](buerger-ueberraschen)
-
-Test 2
