@@ -4,7 +4,7 @@ layout: page
 
 <div markdown="1">
 
-## Ulf Pomerenke
+# Ulf Pomerenke
 
 - Freiberuflicher Seminarleiter, Dozent und Coach
 
