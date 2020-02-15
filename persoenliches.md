@@ -22,6 +22,6 @@ layout: page
 
 - Lehrbibliodramatiker (GfB)
 
-- Vorsitzender des Vereins "W.ORTSPIEL - Werkstatt für Bibliodrama e.V."
+- Vorsitzender des Vereins "W.ORTSPIEL - Werkstatt für Bibliodrama e.V." sum
 
 <img title="Ulf Pomerenke" src="img/klein.jpg" alt="Portrait Ulf Pomerenke" class="portrait">
