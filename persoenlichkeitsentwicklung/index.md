@@ -10,4 +10,4 @@
 
 [Resilienz - Die eigenen Kraftquellen aufspüren](resilienz-eigene-ressourcen)
 
-noch 1 test
+noch 1 test...
