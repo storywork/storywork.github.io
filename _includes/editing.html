@@ -21,9 +21,9 @@
           : end + '.md'
         const  path = (folder ? folder + '/' : '') + file
         repository.getContents('master', path).then(result => {
-          repository.getBlob(result.data.sha).then(result => {
+          repository.getBlob(result.data.sha).then(blob => {
             var easyMDE = new EasyMDE({
-              initialValue: result.data.replace(/^---(.|\n|\r)*---(\n|\r)*/, ''),
+              initialValue: blob.data.replace(/^---(.|\n|\r)*---(\n|\r)*/, ''),
               forceSync: true,
               minHeight: '500px',
               spellChecker: false,
@@ -47,7 +47,7 @@
                   name: "save",
                   action: () => {
                     repository.getBlob(result.data.sha)
-                    match = result.data.match(/^---(.|\n|\r)*---(\n|\r)*/)
+                    match = blob.data.match(/^---(.|\n|\r)*---(\n|\r)*/)
                     repository.writeFile(
                       'master',
                       path,
