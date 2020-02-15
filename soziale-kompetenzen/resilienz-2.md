@@ -2,9 +2,9 @@
 layout: page
 ---
 
-## Wer im Gleichgewicht ist, steht stabiler
+# Wer im Gleichgewicht ist, steht stabiler
 
-### – Resilienz als Lebensstil (Seminar Resilienz 2)
+## – Resilienz als Lebensstil (Seminar Resilienz 2)
 
 Täglich sind wir Vielem ausgesetzt, was uns aus dem Gleichgewicht bringen kann: Zunehmende Arbeitsverdichtung, E-Mail-Flut, Zeitdruck, mehrere „Baustellen“ gleichzeitig, die Herausforderung, Familie und Beruf unter einen Hut zu bringen, ständig aus zig Möglichkeiten auswählen und sich entscheiden zu müssen, und, und, und. Die Gefahr, sich zu verzetteln und nur noch auf Anforderungen von außen zu „re-agieren“, ist groß. Wir erleben uns dann als Getriebene und haben den eigenen gesunden Rhythmus verloren.
 
@@ -12,37 +12,37 @@ Langfristig kann das nicht ohne negative Folgen bleiben: Die Motivation im Beruf
 
 Im Seminar bekommen Sie Impulse, wie Sie sich auf das Wesentliche konzentrieren und sich individuelle Freiräume zurückerobern können, wie Sie trotz aller Anforderungen von außen „bei sich“ bleiben können, in Ihrer „Mitte“, die Ihnen Gleichgewicht und Stabilität gibt. Es geht darum, wie Sie sich langfristig die Freude an der Arbeit, Ihre Lebenszufriedenheit und Ihre Gesundheit erhalten können.
 
-### Inhalte
+## Inhalte
 
-#### In Kontakt sein mit der „inneren Mitte“, spüren wie die Energie fließt
+### In Kontakt sein mit der „inneren Mitte“, spüren wie die Energie fließt
 
 Hilfreiche Impulse aus der Transaktionsanalyse
 
-#### Die Kunst, mit dem eigenen Zeitbudget klug umzugehen
+### Die Kunst, mit dem eigenen Zeitbudget klug umzugehen
 
 Paretoprinzip und Parkinsonsches Gesetz
 
-#### Persönliche Zufriedenheit – ein wesentlicher Resilienzfaktor
+### Persönliche Zufriedenheit – ein wesentlicher Resilienzfaktor
 
 Erkenntnisse aus der neueren Glücksforschung
 
-#### Sich mit dem eigenen Tun identifizieren können
+### Sich mit dem eigenen Tun identifizieren können
 
 Wie Sinn-Erleben im Beruf, Motivation und Gesundheit zusammenhängen
 
-#### Über den Körper die Seele zentrieren
+### Über den Körper die Seele zentrieren
 
 Einfache Körperübungen als Weg zu seelischer Balance
 
-#### Simplify your Life
+### Simplify your Life
 
 Vereinfachung und Entschleunigung im Alltag. Tipps und Tricks
 
-### Zielgruppe
+## Zielgruppe
 
 Mitarbeiter, die etwas für Ihre Arbeits- und Lebenszufriedenheit und die langfristige Erhaltung ihrer seelischen und körperlichen Gesundheit tun wollen.
 
-### Methodik
+## Methodik
 
 Kurze Theorieblocks, Erfahrungsaustausch, praktische Übungen in der Kleingruppe, Feedback
 

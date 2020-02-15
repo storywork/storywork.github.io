@@ -2,9 +2,9 @@
 layout: page
 ---
 
-## Meine Berufung leben
+# Meine Berufung leben
 
-### Selbsterfahrungs-Seminar 
+## Selbsterfahrungs-Seminar 
 
 Jede Lebensphase hat ihre eigene Herausforderung. Kann ich darin so etwas wie einen Auftrag, eine „Berufung“ erkennen? Kann ich meine Bestimmung finden und einen ganz eigenen, authentischen Weg gehen?
 

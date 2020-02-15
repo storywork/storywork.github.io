@@ -2,9 +2,9 @@
 layout: page
 ---
 
-## Teamarbeit im Generationenmix -   
+# Teamarbeit im Generationenmix -   
 
-### Altersgemischte Teams: Die Potenziale entfalten
+## Altersgemischte Teams: Die Potenziale entfalten
 
 Es ist eigentlich der Normalfall, dass Teams am Arbeitsplatz aus Menschen verschiedener Generationen zusammengesetzt sind. Und das ist auch gut so, denn altersgemischte Teams haben das Potenzial zu Spitzenleistungen.
 
@@ -12,7 +12,7 @@ Gleichzeitig bringen altersgemischte Teams aber auch ein hohes Risiko für Konfl
 
 Im Seminar werden die individuellen Leistungsprofile mit ihren altersspezifischen Stärken und Schwächen herausgearbeitet. Alterstypische destruktive Verhaltensmuster werden bewusst gemacht und Möglichkeiten zu konstruktiver Zusammenarbeit aufgezeigt. Die Chancen zu gegenseitiger Ergänzung und dem Erzeugen von Synergieeffekten werden dadurch deutlich. Denn es gibt keine stärkeren Teams als altersgemischte Teams – wenn man die Sache richtig angeht.
 
-### Inhalt
+## Inhalt
 
 _Erfahrung und Innovation – ein unschlagbares Gespann_
 
@@ -44,13 +44,13 @@ Die „Chemie“ muss stimmen, das Vertrauen muss da sein
 
 Was kann ich dafür tun?
 
-### Zielgruppe 
+## Zielgruppe 
 
 Mitarbeiterinnen und Mitarbeiter zwischen 18 und 65, die ihre Rolle im Team reflektieren und die Zusammenarbeit mit ihren Kollegen verbessern wollen.
 
 Im Idealfall sind die Seminarteilnehmer so gemischt, dass jeweils einige Kollegen unter 35 und einige über 50 dabei sind. Sie können ruhig aus verschiedenen Teams „zusammengewürfelt“ sein.
 
-### Methodik
+## Methodik
 
 Kurze Theorieblocks, Erfahrungsaustausch, Selbstreflexion (Typentest), praktische Übungen in der Kleingruppe, Feedback
 

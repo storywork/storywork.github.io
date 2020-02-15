@@ -2,9 +2,9 @@
 layout: page
 ---
 
-## „Da war ich von meiner Behörde angenehm überrascht!“
+# „Da war ich von meiner Behörde angenehm überrascht!“
 
-### - Wie die schriftliche Kommunikation zwischen Amt und Bürgern gelingt
+## - Wie die schriftliche Kommunikation zwischen Amt und Bürgern gelingt
 
  
 
@@ -26,7 +26,7 @@ Im Seminar trainieren wir die Fähigkeit, Verwaltungsvorgänge mit den Augen des
 
  
 
-#### Seminarinhalte
+### Seminarinhalte
 
 Die schriftliche Kommunikation seitens der Verwaltung als Chance, die Beziehung zu den Bürgerinnen und Bürgern positiv zu gestalten.
 
@@ -52,18 +52,18 @@ Die Behörde als modernes Dienstleistungsunternehmen:
 
  
 
-#### Seminarziel
+### Seminarziel
 
 Sie erweitern Ihre Fähigkeiten im verständlichen, übersichtlichen und leicht lesbaren Verfassen amtlicher Schreiben. Sie lernen, die schriftliche Kommunikation als Medium zu benutzen, um die Beziehung zu den Bürger/innen zu pflegen und zu verbessern. 
 
  
 
-#### Zielgruppe
+### Zielgruppe
 
 Mitarbeiter/innen, die (häufig) Schriftverkehr mit Bürgern haben.
 
  
 
-#### Methodik
+### Methodik
 
 Kurze Theorieblocks, Austausch und Analyse bisheriger Erfahrungen der Teilnehmenden, praktische Übungen in der Kleingruppe, Lernen an Fallbeispielen, Formulierungsübungen und Feedback.

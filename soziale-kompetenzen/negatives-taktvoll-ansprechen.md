@@ -2,9 +2,9 @@
 layout: page
 ---
 
-## „Negatives“ taktvoll ansprechen
+# „Negatives“ taktvoll ansprechen
 
-### Kritik üben – Nein sagen – Konflikte thematisieren …
+## Kritik üben – Nein sagen – Konflikte thematisieren …
 
 … und was uns sonst noch schwer fällt in der Kommunikation.
 
@@ -18,7 +18,7 @@ Dabei gibt es einige sehr wirkungsvolle Regeln, wie man Negatives taktvoll anspr
 
 Es geht dabei um eine Kompetenz, die der Schlüssel ist für ehrliche, tragfähige Beziehungen.
 
-#### Inhalte des Seminars
+### Inhalte des Seminars
 
 Mit beschädigtem Vertrauen umgehen.
 
@@ -47,10 +47,10 @@ Günstige Kontexte und Rahmenbedingungen für ein gelingendes Kritik- oder Konfl
 - Das geplante und vorbereitete Gespräch
 - Die spontane Reaktion
 
-#### Zielgruppe
+### Zielgruppe
 
 Mitarbeiter/innen der Öffentlichen Verwaltung unterschiedlicher Ebenen und Fachbereiche.
 
-#### Vorgehensweise
+### Vorgehensweise
 
 Zu jedem der genannten Themen werden Informationen aus den Bereichen Psychologie und Gesprächstechnik vermittelt. Die Informationen werden mit Beispielen aus der Öffentlichen Verwaltung konkretisiert, die Fragen und Anregungen der Teilnehmer/innen werden diskutiert. Anschließend wird der vermittelte Inhalt anhand praktischer Übungen von den Seminarteilnehmern angewendet und eingeübt. 
