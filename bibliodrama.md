@@ -52,4 +52,4 @@ Teilnehmerzahl: 6 - 15.<br>
 Termin und Ort nach Vereinbarung.<br>
 Weitere Themen auf Anfrage. Wir gestalten auch einen Bibliodrama-Workshop zu Ihrem Wunschthema. 
 
-Siehe auch <a href="http://www.wortspiel-bibliodrama.de/" alt="Wortspiel Bibliodrama" target="_blank">W.ortspiel – Werkstatt für Bibliodrama e.V.</a>.
+Siehe auch <a href="http://www.wortspiel-bibliodrama.de/" alt="Wortspiel Bibliodrama" target="_blank">W.ortspiel – Werkstatt für Bibliodrama e.V.</a>
