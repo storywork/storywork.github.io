@@ -46,6 +46,7 @@
                 {
                   name: "save",
                   action: () => {
+                    repository.getBlob(result.data.sha)
                     match = result.data.match(/^---(.|\n|\r)*---(\n|\r)*/)
                     repository.writeFile(
                       'master',
@@ -53,9 +54,12 @@
                       (match && 0 in match ? match[0] : '') + content.value,
                       'Edit via CMS.',
                       (err) => {
-                        if (err)
-                          alert('Fehler beim Speichern!')
+                        if (err) {
                           console.log(err)
+                          alert('Fehler beim Speichern!')
+                        } else {
+                          alert('Erfolgreich gespeichert.')
+                        }
                       })
                   },
                   className: "fa fa-save",
