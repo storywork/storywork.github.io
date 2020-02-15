@@ -8,4 +8,4 @@
 
 [Coming Home - Bei sich selber ankommen](coming-home)
 
-[Resilienz - Die eigenen Kraftquellen aufspüren](resilienz-eigene-ressourcen)...
+[Resilienz - Die eigenen Kraftquellen aufspüren](resilienz-eigene-ressourcen)
