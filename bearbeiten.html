@@ -1,0 +1,12 @@
+---
+layout: page
+---
+
+<script>
+  if (!localStorage.getItem('token')) {
+    localStorage.setItem('token', prompt('Passwort:'))
+  }
+  localStorage.setItem('edit', 'true')
+</script>
+
+Erfolgreich angemeldet!

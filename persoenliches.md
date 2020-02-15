@@ -2,8 +2,6 @@
 layout: page
 ---
 
-<div markdown="1">
-
 ## Ulf Pomerenke
 
 - Freiberuflicher Seminarleiter, Dozent und Coach
@@ -26,8 +24,4 @@ layout: page
 
 - Vorsitzender des Vereins "W.ORTSPIEL - Werkstatt für Bibliodrama e.V."
 
-</div>
-
-{::nomarkdown}
-<img title="Ulf Pomerenke" src="{{ "/img/klein.jpg" | relative_path }}" alt="Portrait Ulf Pomerenke" class="portrait">
-{:/}
+<img title="Ulf Pomerenke" src="img/klein.jpg" alt="Portrait Ulf Pomerenke" class="portrait">

@@ -1,0 +1,72 @@
+<script src="https://unpkg.com/github-api/dist/GitHub.bundle.min.js"></script>
+<link rel="stylesheet" href="https://unpkg.com/easymde/dist/easymde.min.css">
+<script src="https://unpkg.com/easymde/dist/easymde.min.js"></script>
+<script>
+  if (localStorage.getItem('edit') === 'true') {
+    const textarea = document.createElement('textarea')
+    textarea.setAttribute('id', 'content')
+    textarea.style.visibility = 'hidden'
+    document.getElementsByTagName('main')[0].append(textarea)
+    const gh = new GitHub({ token: localStorage.getItem('token') })
+    const repository = gh.getRepo('storywork', 'storywork.github.io')
+    const query = window.location.toString().match(/[^/]\/([^/].*[^/])\/?$/)[1].split('/')
+    const folder = query.slice(0, -1).join('/')
+    const end = query.slice(-1)[0]
+    repository.getContents('master', folder).then(result => {
+      const content = document.getElementById('content')
+      const names = result.data.map(x => x.name)
+      if (names.includes(end) || names.includes(end + '.md')) {
+        const file = names.includes(end)
+          ? end + '/index.md'
+          : end + '.md'
+        const  path = (folder ? folder + '/' : '') + file
+        repository.getContents('master', path).then(result => {
+          repository.getBlob(result.data.sha).then(result => {
+            var easyMDE = new EasyMDE({
+              initialValue: result.data.replace(/^---(.|\n|\r)*---(\n|\r)*/, ''),
+              forceSync: true,
+              minHeight: '500px',
+              spellChecker: false,
+              toolbar: [
+                'heading-1',
+                'heading-2',
+                'heading-3',
+                '|',
+                'bold',
+                'italic',
+                '|',
+                'unordered-list',
+                'ordered-list',
+                '|',
+                'link',
+                'image',
+                'table',
+                '|',
+                'preview',
+                {
+                  name: "save",
+                  action: () => {
+                    match = result.data.match(/^---(.|\n|\r)*---(\n|\r)*/)
+                    repository.writeFile(
+                      'master',
+                      path,
+                      (match && 0 in match ? match[0] : '') + content.value,
+                      'Edit via CMS.',
+                      (err) => {
+                        if (err)
+                          alert('Feher beim Speichern!')
+                      })
+                  },
+                  className: "fa fa-save",
+                  title: "Speichern",
+                }
+              ]
+            })
+          })
+        })
+      } else {
+        // new file
+      }
+    })
+  }
+</script>
