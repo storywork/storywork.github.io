@@ -1,77 +1,98 @@
-<script src="https://unpkg.com/github-api/dist/GitHub.bundle.min.js"></script>
-<link rel="stylesheet" href="https://unpkg.com/easymde/dist/easymde.min.css">
-<script src="https://unpkg.com/easymde/dist/easymde.min.js"></script>
 <script>
-  if (localStorage.getItem('edit') === 'true') {
-    const textarea = document.createElement('textarea')
-    textarea.setAttribute('id', 'content')
-    textarea.style.visibility = 'hidden'
-    document.getElementsByTagName('main')[0].append(textarea)
-    const gh = new GitHub({ token: localStorage.getItem('token') })
-    const repository = gh.getRepo('storywork', 'storywork.github.io')
-    const query = window.location.toString().match(/[^/]\/([^/].*[^/])\/?$/)[1].split('/')
-    const folder = query.slice(0, -1).join('/')
-    const end = query.slice(-1)[0]
-    repository.getContents('master', folder).then(result => {
-      const content = document.getElementById('content')
-      const names = result.data.map(x => x.name)
-      if (names.includes(end) || names.includes(end + '.md')) {
-        const file = names.includes(end)
-          ? end + '/index.md'
-          : end + '.md'
-        const  path = (folder ? folder + '/' : '') + file
-        repository.getContents('master', path).then(result => {
-          repository.getBlob(result.data.sha).then(blob => {
-            var easyMDE = new EasyMDE({
-              initialValue: blob.data.replace(/^---(.|\n|\r)*---(\n|\r)*/, ''),
-              forceSync: true,
-              minHeight: '500px',
-              spellChecker: false,
-              toolbar: [
-                'heading-1',
-                'heading-2',
-                'heading-3',
-                '|',
-                'bold',
-                'italic',
-                '|',
-                'unordered-list',
-                'ordered-list',
-                '|',
-                'link',
-                'image',
-                'table',
-                '|',
-                'preview',
-                {
-                  name: "save",
-                  action: () => {
-                    repository.getBlob(result.data.sha)
-                    match = blob.data.match(/^---(.|\n|\r)*---(\n|\r)*/)
-                    repository.writeFile(
-                      'master',
-                      path,
-                      (match && 0 in match ? match[0] : '') + content.value,
-                      'Edit via CMS.',
-                      (err) => {
-                        if (err) {
-                          console.log(err)
-                          alert('Fehler beim Speichern!')
-                        } else {
-                          alert('Erfolgreich gespeichert.')
-                        }
-                      })
-                  },
-                  className: "fa fa-save",
-                  title: "Speichern",
+  const editor = (repository, path, text, frontmatter, content) => {
+    let count = 0
+    const easyMDE = new EasyMDE({
+      initialValue: text,
+      forceSync: true,
+      minHeight: '500px',
+      spellChecker: false,
+      toolbar: [
+        'heading-1',
+        'heading-2',
+        'heading-3',
+        '|',
+        'bold',
+        'italic',
+        '|',
+        'unordered-list',
+        'ordered-list',
+        '|',
+        'link',
+        'image',
+        'table',
+        '|',
+        'preview',
+        {
+          name: "save",
+          action: () => {
+            count += 1
+            repository.writeFile(
+              'master',
+              path,
+              frontmatter + content.value,
+              'Edit via CMS (' + count + ')',
+              (err) => {
+                if (err) {
+                  console.log(err)
+                  alert('Fehler beim Speichern! \nCirca 30s warten und nochmal probieren!')
+                } else {
+                  alert('Erfolgreich gespeichert.')
                 }
-              ]
-            })
-          })
-        })
-      } else {
-        // new file
-      }
+              })
+          },
+          className: "fa fa-save",
+          title: "Speichern",
+        }
+      ]
     })
+  }
+  if (localStorage.getItem('edit') === 'true') {
+    const style = document.createElement('link')
+    style.rel = 'stylesheet'
+    style.href = 'https://unpkg.com/easymde/dist/easymde.min.css'
+    document.head.appendChild(style)
+    const script1 = document.createElement('script')
+    script1.src = 'https://unpkg.com/github-api/dist/GitHub.bundle.min.js'
+    script1.onload = () => {
+      const script2 = document.createElement('script')
+      script2.src = 'https://unpkg.com/easymde/dist/easymde.min.js'
+      script2.onload = () => {
+        const textarea = document.createElement('textarea')
+        textarea.setAttribute('id', 'content')
+        textarea.style.visibility = 'hidden'
+        document.getElementsByTagName('main')[0].append(textarea)
+        const gh = new GitHub({ token: localStorage.getItem('token') })
+        const repository = gh.getRepo('storywork', 'storywork.github.io')
+        const query = (window.location.toString().match(/[^/]\/([^/].*[^/])\/?$/) || ['', 'index'])[1].split('/')
+        const folder = query.slice(0, -1).join('/')
+        const end = query.slice(-1)[0]
+        repository.getContents('master', folder).then(result => {
+          const content = document.getElementById('content')
+          const names = result.data.map(x => x.name)
+          const fileExists = names.includes(end) || names.includes(end + '.md')
+          const file = fileExists
+            ? names.includes(end)
+              ? end + '/index.md'
+              : end + '.md'
+            : end + '.md'
+          const path = (folder ? folder + '/' : '') + file
+          if (fileExists) {
+            repository.getContents('master', path).then(result => {
+              repository.getBlob(result.data.sha).then(blob => {
+                const rx = /^---(.|\n|\r)*---(\n|\r)*/
+                const text = blob.data.replace(rx, '')
+                const match = blob.data.match(rx)
+                const frontmatter = (match && 0 in match ? match[0] : '')
+                editor(repository, path, text, frontmatter, content)
+              })
+            })
+          } else {
+            editor(repository, path, '', '', content)
+          }
+        })
+      }
+      document.head.appendChild(script2)
+    }
+    document.head.appendChild(script1);
   }
 </script>
