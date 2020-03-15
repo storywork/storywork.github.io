@@ -3,15 +3,13 @@ layout: page
 ---
 
 <script>
-  if (!localStorage.getItem('token')) {
-    const pw = prompt('Passwort:')
-    if (pw.length > 0) {
-      localStorage.setItem('token', pw)
-      localStorage.setItem('edit', 'true')
-    }
+  const pw = prompt('Passwort:')
+  if (pw.length > 0) {
+    localStorage.setItem('token', pw)
+    localStorage.setItem('edit', 'true')
   }
 </script>
 
-Erfolgreich angemeldet!
+Erfolgreich angemeldet! <br><br>
 
-<a href="https://storywork-seminare.de/abmelden">Abmelden</a>
+<a href="https://storywork-seminare.de/abmelden">Abmelden</a> <br><br>
