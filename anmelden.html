@@ -4,10 +4,14 @@ layout: page
 
 <script>
   if (!localStorage.getItem('token')) {
-    localStorage.setItem('token', prompt('Passwort:'))
+    const pw = prompt('Passwort:')
+    if (pw.length > 0) {
+      localStorage.setItem('token', pw)
+      localStorage.setItem('edit', 'true')
+    }
   }
-  localStorage.setItem('edit', 'true')
 </script>
 
 Erfolgreich angemeldet!
 
+<a href="https://storywork-seminare.de/abmelden">Abmelden</a>
