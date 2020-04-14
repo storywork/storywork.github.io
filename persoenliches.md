@@ -16,7 +16,7 @@ layout: page
 
 - Lehrbeauftragter für Soziale Kompetenzen und Kommunikation an der Ludwigsburger Hochschule für Öffentliche Verwaltung und Finanzen (seit 2002)
 
-- Seminartätigkeit im Rahmen der beruflichen Fortbildung für ca. 20 baden-württembergische Landratsämter und Große Kreisstädte >>>>&nbsp;[Referenzen](referenzen)
+- Seminartätigkeit im Rahmen der beruflichen Fortbildung für ca. 30 baden-württembergische Landratsämter und Große Kreisstädte >>>>&nbsp;[Referenzen](referenzen)
 
 - Seminartätigkeit in den Bereichen "Selbsterfahrung / Persönlichkeitsentwicklung"  und "Bibliodrama" in verschiedenen Bildungshäusern (z.B. Hospitalhof Stuttgart, Kloster Kirchberg) seit Mitte der neunziger Jahre
 
