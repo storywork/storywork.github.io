@@ -1,8 +1,8 @@
 # Soziale Kompetenzen
 
-Mehr Energie im Berufsalltag  (Das Power-Paket) 
+[Mehr Energie im Berufsalltag  (Das Power-Paket) ](https://)
 
-Achtsamkeit und Resilienz
+[Achtsamkeit und Resilienz](https://)
 
 [Notfallkoffer Resilienz ](resilienz-1)
 
