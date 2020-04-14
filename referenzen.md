@@ -6,12 +6,15 @@ layout: page
 
 __Meine Auftraggeber im Bereich Öffentliche Verwaltung:__
 
-- Hochschule für Öffentliche Verwaltung und Finanzen in Ludwigsburg.
-- Lehrauftrag seit 2002 (Sozialpsychologisches Gruppentraining, Teamarbeit, Kommunikation)
+- Hochschule für Öffentliche Verwaltung und Finanzen in Ludwigsburg. Lehrauftrag seit 2002 (Sozialpsychologisches Gruppentraining, Teamarbeit, Kommunikation)
 
 - Landratsamt Aalen (Ostalbkreis)
 
 - Landratsamt Böblingen
+
+- Landratsamt Biberach
+
+- Landratsamt Calw
 
 - Stadtverwaltung Ettlingen
 
@@ -25,6 +28,8 @@ __Meine Auftraggeber im Bereich Öffentliche Verwaltung:__
 
 - Landratsamt Heidenheim
 
+- Stadtverwaltung Karlsruhe
+
 - Stadtverwaltung Konstanz (Kooperation mit Firma Translake)
 
 - Landratsamt Mosbach (Neckar-Odenwald-Kreis)
@@ -37,9 +42,9 @@ __Meine Auftraggeber im Bereich Öffentliche Verwaltung:__
 
 - Landratsamt Ravensburg
 
-- Stadtverwaltung Schwäbisch Gmünd
+- Stadtverwaltung Rottenburg am Neckar
 
-- Stadtbibliothek Schwäbisch Gmünd
+- Stadtverwaltung Schwäbisch Gmünd
 
 - Stadtverwaltung Schwäbisch Hall
 
@@ -56,3 +61,7 @@ __Meine Auftraggeber im Bereich Öffentliche Verwaltung:__
 - Stadtverwaltung Überlingen (Kooperation mit Firma Translake)
 
 - Landratsamt Villingen-Schwenningen (Schwarzwald-Baar-Kreis)
+
+- Stadtverwaltung Villingen-Schwenningen
+
+- Landratsamt Waldshut
