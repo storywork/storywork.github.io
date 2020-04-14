@@ -1,10 +1,16 @@
 # Soziale Kompetenzen
 
-[Resilienz - Herausforderungen und Belastungen erfolgreich bewältigen (Resilienz 1)](resilienz-1)
+Mehr Energie im Berufsalltag  (Das Power-Paket) 
+
+Achtsamkeit und Resilienz
+
+[Notfallkoffer Resilienz ](resilienz-1)
 
 [Wer im Gleichgewicht ist, steht stabiler (Resilienz 2)](resilienz-2)
 
 [Reife Leistung - Motiviert und ohne Burnout durchs letzte Berufsdrittel (Resilienz 3)](resilienz-3)
+
+
 
 ### Resilienz für Führungskräfte
 [Seminartag 1: Der achtsame Umgang mit sich selbst](https://)
