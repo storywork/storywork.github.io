@@ -13,9 +13,9 @@ Achtsamkeit und Resilienz
 
 
 ### Resilienz für Führungskräfte
-[Seminartag 1: Der achtsame Umgang mit sich selbst](https://)
+					[Seminartag 1: Der achtsame Umgang mit sich selbst](https://)
 
-[Seminartag 2: Resilienzorientierte Führung von Mitarbeitern](https://)
+					[Seminartag 2: Resilienzorientierte Führung von Mitarbeitern](https://)
 
 
 [Aufbruch zu neuen Ufern - Abschied von der Erwerbsarbeit](aufbruch-zu-neuen-ufern)
