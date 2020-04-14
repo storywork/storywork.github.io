@@ -60,7 +60,7 @@ Sie erweitern Ihre Fähigkeiten im verständlichen, übersichtlichen und leicht 
 
 ### Zielgruppe
 
-Mitarbeiter/innen, die (häufig) Schriftverkehr mit Bürgern haben.
+Mitarbeiter/innen, die (häufig) Schriftverkehr mit Bürgerinnen und Bürgern haben.
 
  
 
