@@ -1,6 +1,6 @@
 # Soziale Kompetenzen
 
-[Mehr Energie im Berufsalltag  (Das Power-Paket) ](https://)
+[Mehr Energie im Berufsalltag  (Das Power-Paket) ](Mehr Energie)
 
 [Achtsamkeit und Resilienz](https://)
 
