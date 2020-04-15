@@ -1,6 +1,6 @@
 ## Mehr Energie im Berufsalltag (Das Power-Paket)
 
- Erkenntnisse aus Glücksforschung, Psychologie, Neurobiologie und Hirnforschung
+** Erkenntnisse aus Glücksforschung, Psychologie, Neurobiologie und Hirnforschung
  –	als praktische Impulse für mehr „Flow“ und Leichtigkeit im eigenen Tun**
 
 **Wussten Sie**,
