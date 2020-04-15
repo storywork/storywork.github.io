@@ -8,8 +8,9 @@ Lernen Sie in diesem Seminar, wie Sie den Anforderungen und der Hektik des Allta
 Wie Sie Ihre eigene psychische und physische Gesundheit erhalten, mit Ihren Ressourcen sorgsam umgehen und durch gezielte Strategien Belastungen spürbar abmildern können.
 Erfahren Sie, wie sich Ihr Führungsverhalten auf das Betriebsklima sowie die Motivation und Gesundheit Ihrer Mitarbeiter auswirkt. Erwerben Sie das nötige Wissen, um die Belastung und eventuelle Burnout-Gefährdung Ihrer Mitarbeiter einschätzen zu können. Lernen Sie, mit welchen Mitteln sie die Resilienz Ihrer Mitarbeiter stärken und deren Leistungsbereitschaft langfristig erhalten können. 
 
-
-Seminartag 2: Resilienzorientierte Führung von Mitarbeitern
+### Inhalte
+### 
+### Seminartag 2: Resilienzorientierte Führung von Mitarbeitern
 
 •	Die Rolle der Führungskraft in belastenden Arbeitssituationen
 
