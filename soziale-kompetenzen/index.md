@@ -1,7 +1,7 @@
 # Soziale Kompetenzen
- [Resilienz für Führungskräfte Seminartag 1: Der achtsame Umgang mit sich selbst](https://)
+ [Resilienz für Führungskräfte Seminartag 1: Der achtsame Umgang mit sich selbst](FK1)
  
- [Resilienz für Führungskräfte Seminartag 2: Resilienzorientierte Führung von Mitarbeitern](https://)
+ [Resilienz für Führungskräfte Seminartag 2: Resilienzorientierte Führung von Mitarbeitern](FK2)
 
 
 [Mehr Energie im Berufsalltag  (Das Power-Paket) ](Mehr-Energie)
