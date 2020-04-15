@@ -3,6 +3,7 @@
 ### Erkenntnisse aus Glücksforschung, Psychologie, Neurobiologie und Hirnforschung
 ###  –	als praktische Impulse für mehr „Flow“ und Leichtigkeit im eigenen Tun
 
+
 **Wussten Sie**,
 
 dass Menschen mit einer hohen Lebenszufriedenheit 
