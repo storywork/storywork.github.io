@@ -37,11 +37,15 @@ Erfahren Sie, wie sich Ihr Führungsverhalten auf das Betriebsklima sowie die Mo
 
 **Nutzen**
 
+Tag 1
+
 •	Die eigene Gesundheit verbessern und erhalten
 
 •	Burnout und anderen stressbedingten Erkrankungen wirksam vorbeugen
 
 •	Eigene Motivation und Arbeitszufriedenheit steigern
+
+Tag 2
 
 •	Krankheits- und Fehlzeiten der Mitarbeiter reduzieren
 
