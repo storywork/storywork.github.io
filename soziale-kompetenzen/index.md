@@ -1,4 +1,8 @@
 # Soziale Kompetenzen
+ [Resilienz für Führungskräfte Seminartag 1: Der achtsame Umgang mit sich selbst](https://)
+ 
+ [Resilienz für Führungskräfte Seminartag 2: Resilienzorientierte Führung von Mitarbeitern](https://)
+
 
 [Mehr Energie im Berufsalltag  (Das Power-Paket) ](Mehr-Energie)
 
@@ -9,10 +13,6 @@
 [Wer im Gleichgewicht ist, steht stabiler](resilienz-2)
 
 [Reife Leistung - Motiviert und ohne Burnout durchs letzte Berufsdrittel](resilienz-3)
-
-
- [Resilienz für Führungskräfte Seminartag 1: Der achtsame Umgang mit sich selbst](https://)
- [Resilienz für Führungskräfte Seminartag 2: Resilienzorientierte Führung von Mitarbeitern](https://)
 
 
 [Aufbruch zu neuen Ufern - Abschied von der Erwerbsarbeit](aufbruch-zu-neuen-ufern)
