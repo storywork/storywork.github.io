@@ -32,6 +32,34 @@ Erfahren Sie, wie sich Ihr Führungsverhalten auf das Betriebsklima sowie die Mo
 •	Gesundheit fördernde Faktoren kennen und einsetzen (Salutogenese)
 
 
+**Nutzen**
+
+•	Die eigene Gesundheit verbessern und erhalten
+
+•	Burnout und anderen stressbedingten Erkrankungen wirksam vorbeugen
+
+•	Eigene Motivation und Arbeitszufriedenheit steigern
+
+•	Krankheits- und Fehlzeiten der Mitarbeiter reduzieren
+
+•	Leistungsbereitschaft steigern und erhalten
+
+•	Methodenkompetenz für resilienzorientierte Führung erwerben
+
+**Methodik**
+
+Kurze Theorieblocks, Austausch und Analyse bisheriger Erfahrungen der Teilnehmenden, Selbstreflektion, Lernen an Fallbeispielen, praktische Übungen in der Kleingruppe, Feedback
+
+**Zielgruppe**
+
+Führungsverantwortliche aus allen Fachbereichen und Leitungsebenen, die ihre eigene Widerstandskraft stärken und Resilienz und Motivation ihrer Mitarbeiter weiterentwickeln möchten. Das Seminar ist auch für Nachwuchsführungskräfte geeignet. 
+
+**Seminardauer**
+
+Pro Seminartag 8 Unterrichtseinheiten (à 45 Minuten)
+
+Die beiden Seminartage können auch unabhängig voneinander gebucht werden.
+
 
 
 
