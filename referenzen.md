@@ -15,6 +15,8 @@ __Meine Auftraggeber im Bereich Öffentliche Verwaltung:__
 
 - Landratsamt Biberach
 
+- Landratsamt Calw
+
 - Stadtverwaltung Ettlingen
 
 - Stadtverwaltung Filderstadt
@@ -26,6 +28,8 @@ __Meine Auftraggeber im Bereich Öffentliche Verwaltung:__
 - Stadtverwaltung Heilbronn
 
 - Landratsamt Heidenheim
+
+- Stadtverwaltung Karlsruhe
 
 - Stadtverwaltung Konstanz (Kooperation mit Firma Translake)
 
@@ -40,8 +44,6 @@ __Meine Auftraggeber im Bereich Öffentliche Verwaltung:__
 - Landratsamt Ravensburg
 
 - Stadtverwaltung Schwäbisch Gmünd
-
-- Stadtbibliothek Schwäbisch Gmünd
 
 - Stadtverwaltung Schwäbisch Hall
 
