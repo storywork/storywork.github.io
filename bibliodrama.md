@@ -17,7 +17,7 @@ Die Methoden des Bibliodramas sind vielfältig: Rollenspiel, kreative und medita
 Leitung: Annemarie Holzwarth, Tanz- und Bibliodramaleiterin, Wüstenrot<br>
 Ulf Pomerenke, Theologe und Bibliodramaleiter, Stuttgart
  
- 
+ ------------------------------------------------------------------------------------------------------------------------
  
  
  
