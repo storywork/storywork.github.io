@@ -32,7 +32,7 @@ Methodisch arbeiten wir die Motive, Symbole und „Regieanweisungen“ des bibli
  
 Wir fragen: Wer könnte ich sein, wenn ich diese Impulse in mein Leben integrieren würde? Welche neue Lebensgeschichte könnte ich dann schreiben? Welche meiner „alten“ inneren Regieanweisungen würden dadurch aufgebrochen und verändert.
  
- 
+ --------------------------------------------------------------------------------------------------------------------
  
  
  
