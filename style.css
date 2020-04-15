@@ -153,10 +153,9 @@ main strong {
 
 .persoenliches main div {
 	max-width: 485px;
-	margin: auto;
 }
 
-.persoenliches img {
+.persoenliches main img {
 	width: 250px;
 	float: right;
 	position: relative;
