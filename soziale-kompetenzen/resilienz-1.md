@@ -11,7 +11,7 @@ Den „Kopf über Wasser halten“, nicht krank werden, in den „Überlebensmod
 Wie kann ich in solchen Zeiten gut mir mir und mit meinem beruflichen und privaten Umfeld umgehen? Wie kann ich nach der Arbeit wirksam „abschalten“, meine Ressourcen aktivieren und neue Energie „auftanken“? Wie kann ich aber auch erkennen, wann die Grenze meiner Kraft erreicht ist und eventuell erste Burnoutsymptome sich melden? 
 Wo bekomme ich Hilfe?
 
-**Seminarinhalt
+**Seminarinhalt**
 
 •	Aus der Defensive kommen und sich als handlungsfähig erleben: Einsatz sogenannter „Coping-Strategien“ 
 
