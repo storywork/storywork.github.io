@@ -4,7 +4,7 @@ layout: page
 
 # „Reife Leistung“
 
-## – Motiviert und ohne Burnout durchs letzte Berufsdrittel (Resilienz 3)
+## – Motiviert und ohne Burnout durchs letzte Berufsdrittel 
 
 Mit zunehmendem Alter verändert sich das Leistungsprofil. Manche Fähigkeiten, wie zum Beispiel Ausdauer und Konzentrationsfähigkeit, lassen nach. Andere Fähigkeiten nehmen zu: Erfahrung, Intuition, Übersicht, emotionale Stabilität, um nur einige zu nennen.
 
