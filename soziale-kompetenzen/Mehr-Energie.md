@@ -5,19 +5,19 @@ Erkenntnisse aus Glücksforschung, Psychologie, Neurobiologie und Hirnforschung
 
 **Wussten Sie**,
 
-		•	dass Menschen mit einer hohen Lebenszufriedenheit 
-		* ein besseres Selbstwertgefühl haben, 
-		* kreativer sind, 
-		* motivierter und effizienter arbeiten, 
-		* besser schlafen, 
-		* sich prosozialer bzw. hilfsbereiter verhalten, 
-		* ein stärkeres Immunsystem haben 
-		* und eine um mehrere Jahre höhere Lebenserwartung? 
-		* Und dass man die Lebenszufriedenheit relativ leicht steigern kann?
+dass Menschen mit einer hohen Lebenszufriedenheit 
+* ein besseres Selbstwertgefühl haben, 
+* kreativer sind, 
+* motivierter und effizienter arbeiten, 
+* besser schlafen, 
+* sich prosozialer bzw. hilfsbereiter verhalten, 
+* ein stärkeres Immunsystem haben 
+* und eine um mehrere Jahre höhere Lebenserwartung? 
+* Und dass man die Lebenszufriedenheit relativ leicht steigern kann?
 
-•	dass man durch die psychologische Methode des „Reframing“ eine belastende Situation als deutlich weniger belastend erleben und die dafür verbrauchte Energie um über 50% senken kann?
+dass man durch die psychologische Methode des „Reframing“ eine belastende Situation als deutlich weniger belastend erleben und die dafür verbrauchte Energie um über 50% senken kann?
 
-•	dass unser Gehirn aufgrund seiner „Neuroplastizität“ durch wiederholtes Üben neue Verknüpfungen bilden kann? Dass dadurch neue, konstruktive Verhaltensweisen zu einer selbstverständlichen Gewohnheit gemacht werden können? Und dass das bei täglichem Üben schon nach durchschnittlich 66 Tagen erreicht wird?
+dass unser Gehirn aufgrund seiner „Neuroplastizität“ durch wiederholtes Üben neue Verknüpfungen bilden kann? Dass dadurch neue, konstruktive Verhaltensweisen zu einer selbstverständlichen Gewohnheit gemacht werden können? Und dass das bei täglichem Üben schon nach durchschnittlich 66 Tagen erreicht wird?
 
 **Seminarinhalte:**
 
