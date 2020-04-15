@@ -6,16 +6,17 @@
 
 [Notfallkoffer Resilienz ](resilienz-1)
 
-[Wer im Gleichgewicht ist, steht stabiler](resilienz-2)
+[Wer im Gleichgewicht ist, steht stabiler (Resilienz 2)](resilienz-2)
 
-[Reife Leistung - Motiviert und ohne Burnout durchs letzte Berufsdrittel](resilienz-3)
+[Reife Leistung - Motiviert und ohne Burnout durchs letzte Berufsdrittel (Resilienz 3)](resilienz-3)
 
 
 
 
 ### Resilienz für Führungskräfte
- [Seminartag 1: Der achtsame Umgang mit sich selbst](https://)
- [Seminartag 2: Resilienzorientierte Führung von Mitarbeitern](https://)
+    [Seminartag 1: Der achtsame Umgang mit sich selbst](https://)
+
+    [Seminartag 2: Resilienzorientierte Führung von Mitarbeitern](https://)
 
 
 
