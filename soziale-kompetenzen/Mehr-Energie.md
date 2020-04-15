@@ -31,8 +31,10 @@ dass unser Gehirn aufgrund seiner „Neuroplastizität“ durch wiederholtes Üb
 
 
 **Methodik**
+
 Kurze Theorieblocks,  praktische Übungen in der Kleingruppe, Lernen an Fallbeispielen, Erfahrungsaustausch, Feedback
 
 
 **Zielgruppe**
+
 Mitarbeiterinnen und Mitarbeiter, die Kraft auftanken und ihren Alltag mit mehr Energie und Zufriedenheit gestalten wollen; und denen die langfristige Erhaltung ihrer seelischen und körperlichen Gesundheit am Herzen liegt.
