@@ -2,77 +2,40 @@
 layout: page
 ---
 
-# Resilienz
+## „Notfallkoffer Resilienz“
 
-## Herausforderungen und Belastungen erfolgreich bewältigen (Seminar Resilienz 1)
+### Schnell wirksame Hilfen in stressigen Zeiten
+### 
+Es gibt Phasen, in denen man wirklich aufpassen muss, dass man nicht „unter die Räder“ kommt. Phasen, in denen der Stress überhand zu nehmen droht. Zum Beispiel wenn im Team eine Stelle eine zeitlang unbesetzt ist, wenn eine längere Krankheitsvertretung gestemmt werden muss oder durch Umstrukturierungsmaßnahmen zeitweilig sehr viel Neues und auch Unsicherheit irgendwie gemanagt und bewältigt werden will. 
+Den „Kopf über Wasser halten“, nicht krank werden, in den „Überlebensmodus“ schalten – solche existenziellen Dinge stehen dann manchmal ganz im Vordergrund.
+Wie kann ich in solchen Zeiten gut mir mir und mit meinem beruflichen und privaten Umfeld umgehen? Wie kann ich nach der Arbeit wirksam „abschalten“, meine Ressourcen aktivieren und neue Energie „auftanken“? Wie kann ich aber auch erkennen, wann die Grenze meiner Kraft erreicht ist und eventuell erste Burnoutsymptome sich melden? 
+Wo bekomme ich Hilfe?
 
-Unter  Resilienz versteht man die Stärke, die es einem Menschen ermöglicht, Krisen, schwierige Bedingungen und neue Herausforderungen erfolgreich zu meistern. Sich durch Niederlagen nicht dauerhaft frustrieren zu lassen, sondern sich wieder aufzurichten und neu anzufangen – wenn möglich sogar gestärkt und um eine wertvolle Erfahrung reicher. Solch eine innere Widerstandskraft lässt sich festigen und auch weiterentwickeln.
+**Seminarinhalt
 
-Entscheidend ist dabei, wie wir eine Herausforderung mental bewältigen, mit welchen Gedanken und Bewertungen wir eine schwierige Situation für uns einordnen und interpretieren. Persönliche Ressourcen wie Selbstvertrauen, die Fähigkeit zu entspannen und Kraft zu schöpfen sowie das Eingebundensein in ein tragfähiges soziales Umfeld spielen ebenfalls eine große Rolle.
+•	Aus der Defensive kommen und sich als handlungsfähig erleben: Einsatz sogenannter „Coping-Strategien“ 
 
-## Inhalt des Seminars:
+•	Energie-Tankstelle 1: Körper- und Entspannungsübungen, die einfach gut tun 
 
-### „Nichts als Stress und Ärger! Was ist hier eigentlich los?“
+•	Den Kopf frei kriegen durch Achtsamkeit, Rituale, Imaginationstechniken und „Kognitives Selbstmanagement“
 
-Krisensymptome / Burnout-Symptome wahrnehmen und ernst nehmen
+•	Energie-Tankstelle 2: Ressourcen, die mir die eigene Biografie zur Verfügung stellt
 
-### „Ich fürchte, ich komm hier unter die Räder! <br> Was kann ich bloß tun?“
+•	Umgang mit den eigenen Bedürfnissen und Selbstfürsorge
 
-Die Situation so beschreiben, dass man aus der Defensive kommt und sich als handlungsfähig erlebt.
+•	Tipps und Tricks: 12 einfache und schnell wirksame Maßnahmen zur Regeneration und Entlastung
 
-Einsatz sogenannter „Coping-Strategien“, die zur konstruktiven Neubewertung von belastenden Faktoren anleiten, Techniken aus der Verhaltenstherapie
+•	Burnout-Symptome frühzeitig erkennen, ernst nehmen(!) und gegensteuern 
 
-### „Ich müsste endlich mal wieder richtig Energie ‚auftanken’!“
+**Seminarziel**
 
-Tankstelle 1: Zur Ruhe kommen und Kraft schöpfen
+Die Teilnehmer/innen lernen, wie sie sich in stressigen Zeiten selbst stärken und einem Burnout vorbeugen können.
 
-Körper- und Atemübungen, die einfach gut tun – jederzeit im Alltag einsetzbar
+**Zielgruppe**
 
-### „Ich werd die belastenden Gedanken und Gefühle nicht los <br> – wie kann ich Abstand finden?“
+Mitarbeiterinnen und Mitarbeiter, die mit besonderen persönlichen oder beruflichen Herausforderungen konfrontiert sind oder präventiv ihre Kompetenz im Umgang mit Stress verbessern wollen.
 
-Wie ich das kräftezehrende Wirrwar in meinem Kopf auflösen kann
+**Methodik**
 
-und zu Klarheit und innerer Ruhe finde
+Kurze Theorieblocks, Übungen in der Kleingruppe, Austausch und Analyse positiver und negativer Erfahrungen der Teilnehmenden,  Feedback
 
-Einige Anregungen zum „Kognitiven Selbstmanagement“ in Anlehnung an das
-
-Modell vom „Inneren Team“ nach Schulz von Thun
-
-### „Ich müsste endlich mal wieder richtig Energie ‚auftanken’!“
-
-Tankstelle 2: Die eigenen Kraftquellen bewusst machen und sie „anzapfen“  
-
-Ressourcen, die mir die eigene Biografie zur Verfügung stellt
-
-Übung in der Großgruppe                                                                            
-
-### „Was kann ich sonst noch tun?"
-
-Tipps und Tricks, um mit belastenden Situationen besser zurechtzukommen
-
-12 einfache und schnell wirksame Maßnahmen als „Notfallkoffer“
-
-### „Ist die ganze Krise eigentlich für irgendetwas gut?“
-
-Wie ich eine Krise als Herausforderung annehmen und zur persönlichen Entwicklung nutzen kann
-
-Vier Schritte, um in einer Umbruchsituation Sinn, Wachstumsimpulse und neue Motivation zu finden
-
-Das Konzept der „Systemischen Psychologie“ im Alltag angewandt
-
-
-## Seminarziel
-
-Die Teilnehmenden werden sich ihrer eigenen Ressourcen bewusst und lernen, sie in schwierigen Situationen gezielt einzusetzen. Sie erlernen Techniken (sog. Coping-Strategien) zur aktiven Verarbeitung belastender Erlebnisse. Sie bekommen Hinweise und Impulse zur Persönlichkeitsentwicklung.
-
-## Zielgruppe
-
-Mitarbeiterinnen und Mitarbeiter, die mit besonderen persönlichen oder beruflichen Herausforderungen konfrontiert sind oder ganz allgemein Strategien zur besseren Lebensbewältigung erlernen möchten.
-
-## Methodik
-
-Kurze Theorieblocks, Übungen in der Kleingruppe, Austausch und Analyse positiver und negativer Erfahrungen der Teilnehmenden,  Feedback.
-
-Das Seminar ist in der Regel eintägig.
-
-Termin nach Vereinbarung. 
