@@ -25,3 +25,4 @@ layout: page
 - Vorsitzender des Vereins "W.ORTSPIEL - Werkstatt für Bibliodrama e.V."
 
 ![Portrait](blau2.jpg)
+
