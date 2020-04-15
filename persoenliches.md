@@ -2,6 +2,8 @@
 layout: page
 ---
 
+![Portrait](img/blau2.jpg)
+
 # Ulf Pomerenke
 
 - Freiberuflicher Seminarleiter, Dozent und Coach
@@ -23,6 +25,4 @@ layout: page
 - Lehrbibliodramatiker (GfB)
 
 - Vorsitzender des Vereins "W.ORTSPIEL - Werkstatt für Bibliodrama e.V."
-
-![Portrait](img/blau2.jpg)
 
