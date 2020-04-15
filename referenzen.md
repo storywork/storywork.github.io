@@ -43,6 +43,8 @@ __Meine Auftraggeber im Bereich Öffentliche Verwaltung:__
 
 - Landratsamt Ravensburg
 
+- Stadtverwaltung Rottenburg am Neckar
+
 - Stadtverwaltung Schwäbisch Gmünd
 
 - Stadtverwaltung Schwäbisch Hall
@@ -60,3 +62,7 @@ __Meine Auftraggeber im Bereich Öffentliche Verwaltung:__
 - Stadtverwaltung Überlingen (Kooperation mit Firma Translake)
 
 - Landratsamt Villingen-Schwenningen (Schwarzwald-Baar-Kreis)
+
+- Stadtverwaltung Villingen-Schwenningen
+
+- Landratsamt Waldshut
