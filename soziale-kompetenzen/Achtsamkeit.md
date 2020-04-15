@@ -1,6 +1,6 @@
 ## Achtsamkeit und Resilienz
 
-**Mit Ruhe und Klarheit den täglichen Herausforderungen begegnen	**
+### Mit Ruhe und Klarheit den täglichen Herausforderungen begegnen
 
 "Ruhe bewahren, es nicht so persönlich nehmen, keine Selbstvorwürfe,  konzentriert bleiben, abschalten und auftanken können, …“ –  wenn das so einfach wäre.
 In einer immer turbulenteren Arbeitswelt ist es sinnvoll, die Fähigkeiten zur Stressbewältigung zu verbessern. Stärken Sie Ihre Widerstandskraft durch einen achtsameren Umgang mit der Situation und mit sich selber. 
@@ -10,9 +10,13 @@ Sie entwickeln Ihren individuellen Lösungsansatz im Umgang mit herausfordernden
 **Seminarinhalte**
 
 •	Wahnehmungsverzerrungen und „Kopfkino“ – Wie wir unsere eigene Realität erschaffen und warum wir oft nicht wirklich „präsent“ sind
+
 •	Konzepte aus der Transaktionsanalyse, die uns helfen, Denkmuster, innere Antreiber und blinde Flecken zu erkennen
+
 •	Einfache Übungen, die uns ins „Hier und Jetzt“ bringen: Bodyscan, Qui Gong, Gehmeditation und andere Achtsamkeitsübungen (Ohne Vorkenntnisse leicht erlernbar!)
+
 •	Achtsam Kommunizieren lernen in schwierigen Situationen
+
 •	Achtsamkeit im Alltag: Wie gehen wir mit unseren Bedürfnissen um? Wo übergehen wir sie? Wo befriedigen wir sie auf „ungesunde“ Weise? Individuelle Lösungen erarbeiten, die uns gut tun und stärken.
 
 **Methodik**
