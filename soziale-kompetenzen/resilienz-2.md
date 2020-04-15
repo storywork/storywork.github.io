@@ -4,7 +4,7 @@ layout: page
 
 # Wer im Gleichgewicht ist, steht stabiler
 
-## – Resilienz als Lebensstil (Seminar Resilienz 2)
+## – Resilienz als Lebensstil 
 
 Täglich sind wir Vielem ausgesetzt, was uns aus dem Gleichgewicht bringen kann: Zunehmende Arbeitsverdichtung, E-Mail-Flut, Zeitdruck, mehrere „Baustellen“ gleichzeitig, die Herausforderung, Familie und Beruf unter einen Hut zu bringen, ständig aus zig Möglichkeiten auswählen und sich entscheiden zu müssen, und, und, und. Die Gefahr, sich zu verzetteln und nur noch auf Anforderungen von außen zu „re-agieren“, ist groß. Wir erleben uns dann als Getriebene und haben den eigenen gesunden Rhythmus verloren.
 
