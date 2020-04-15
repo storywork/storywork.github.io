@@ -44,7 +44,10 @@ Die Perle des Glücks, der Schatz, der mein Leben reich macht – wenn ich darau
  
 Wie kann ich mich darin wiederfinden mit meiner Sehnsucht nach Glück und Erfüllung? Was ist in meinem Leben dieser kostbare Schatz, der mich mit Freude erfüllt und mich „von innen heraus“ in Bewegung setzt?<br>
 Die Methoden des Bibliodramas, mit denen wir uns dem Text nähern, sind vielfältig: Rollenspiel, Imagination, kreative und meditative Elemente, Leibarbeit und Tanz.
-  
+ 
+ ______________________________________________________________________
+ 
+ 
  
  
 ## Leicht wie ein Vogel
