@@ -156,9 +156,12 @@ main strong {
 	margin: auto;
 }
 
-.persoenliches img.portrait {
-	width: 200px;
-	margin-left: 15px;
+.persoenliches img {
+	width: 250px;
+	float: right;
+	position: relative;
+	left: 250px;
+	margin-left: -250px;
 }
 
 /* Links */
