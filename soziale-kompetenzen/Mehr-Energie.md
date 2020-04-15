@@ -13,7 +13,7 @@ dass Menschen mit einer hohen Lebenszufriedenheit
 * sich prosozialer bzw. hilfsbereiter verhalten, 
 * ein stärkeres Immunsystem haben 
 * und eine um mehrere Jahre höhere Lebenserwartung? 
-* Und dass man die Lebenszufriedenheit relativ leicht steigern kann?
+Und dass man die Lebenszufriedenheit relativ leicht steigern kann?
 
 dass man durch die psychologische Methode des „Reframing“ eine belastende Situation als deutlich weniger belastend erleben und die dafür verbrauchte Energie um über 50% senken kann?
 
@@ -29,8 +29,10 @@ dass unser Gehirn aufgrund seiner „Neuroplastizität“ durch wiederholtes Üb
 
 •	Einige Ergebnisse aus der Hirnforschung und der Neurobiologie verständlich dargestellt: Neuroplastizität, Überlebensprogrammierung, etc.  Und wie wir uns diese Erkenntnisse im Alltag zunutze machen können
 
+
 **Methodik**
 Kurze Theorieblocks,  praktische Übungen in der Kleingruppe, Lernen an Fallbeispielen, Erfahrungsaustausch, Feedback
+
 
 **Zielgruppe**
 Mitarbeiterinnen und Mitarbeiter, die Kraft auftanken und ihren Alltag mit mehr Energie und Zufriedenheit gestalten wollen; und denen die langfristige Erhaltung ihrer seelischen und körperlichen Gesundheit am Herzen liegt.
