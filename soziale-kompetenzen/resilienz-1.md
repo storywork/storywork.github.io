@@ -5,7 +5,7 @@ layout: page
 ## „Notfallkoffer Resilienz“
 
 ### Schnell wirksame Hilfen in stressigen Zeiten
-### 
+
 Es gibt Phasen, in denen man wirklich aufpassen muss, dass man nicht „unter die Räder“ kommt. Phasen, in denen der Stress überhand zu nehmen droht. Zum Beispiel wenn im Team eine Stelle eine zeitlang unbesetzt ist, wenn eine längere Krankheitsvertretung gestemmt werden muss oder durch Umstrukturierungsmaßnahmen zeitweilig sehr viel Neues und auch Unsicherheit irgendwie gemanagt und bewältigt werden will. 
 Den „Kopf über Wasser halten“, nicht krank werden, in den „Überlebensmodus“ schalten – solche existenziellen Dinge stehen dann manchmal ganz im Vordergrund.
 Wie kann ich in solchen Zeiten gut mir mir und mit meinem beruflichen und privaten Umfeld umgehen? Wie kann ich nach der Arbeit wirksam „abschalten“, meine Ressourcen aktivieren und neue Energie „auftanken“? Wie kann ich aber auch erkennen, wann die Grenze meiner Kraft erreicht ist und eventuell erste Burnoutsymptome sich melden? 
