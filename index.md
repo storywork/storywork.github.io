@@ -7,7 +7,6 @@ layout: home
 _Max Frisch_
 
 Eine Geschichte “anprobieren”,
-
 erleben und spüren, wie es sich darin anfühlt.
 
 Einige Schritte darin machen wie in einem neuen Kleid.
