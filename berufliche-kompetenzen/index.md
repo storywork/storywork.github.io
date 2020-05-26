@@ -1,19 +1,18 @@
 # Soziale Kompetenzen
- [Resilienz für Führungskräfte Seminartag 1: Der achtsame Umgang mit sich selbst](FK1)
- 
- [Resilienz für Führungskräfte Seminartag 2: Resilienzorientierte Führung von Mitarbeitern](FK2)
 
+[Resilienz für Führungskräfte Seminartag 1: Der achtsame Umgang mit sich selbst](FK1)
 
-[Mehr Energie im Berufsalltag  (Das Power-Paket) ](Mehr-Energie)
+[Resilienz für Führungskräfte Seminartag 2: Resilienzorientierte Führung von Mitarbeitern](FK2)
+
+[Mehr Energie im Berufsalltag  (Das Power-Paket)](Mehr-Energie)
 
 [Achtsamkeit und Resilienz](Achtsamkeit)
 
-[Notfallkoffer Resilienz ](resilienz-1)
+[Notfallkoffer Resilienz](resilienz-1)
 
 [Wer im Gleichgewicht ist, steht stabiler](resilienz-2)
 
 [Reife Leistung - Motiviert und ohne Burnout durchs letzte Berufsdrittel](resilienz-3)
-
 
 [Aufbruch zu neuen Ufern - Abschied von der Erwerbsarbeit](aufbruch-zu-neuen-ufern)
 
