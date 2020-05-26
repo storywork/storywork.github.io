@@ -9,7 +9,7 @@ Wie Sie Ihre eigene psychische und physische Gesundheit erhalten, mit Ihren Ress
 Erfahren Sie, wie sich Ihr Führungsverhalten auf das Betriebsklima sowie die Motivation und Gesundheit Ihrer Mitarbeiter auswirkt. Erwerben Sie das nötige Wissen, um die Belastung und eventuelle Burnout-Gefährdung Ihrer Mitarbeiter einschätzen zu können. Lernen Sie, mit welchen Mitteln sie die Resilienz Ihrer Mitarbeiter stärken und deren Leistungsbereitschaft langfristig erhalten können. 
 
 ### Inhalte
-### 
+
 ### Seminartag 2: Resilienzorientierte Führung von Mitarbeitern
 
 •	Die Rolle der Führungskraft in belastenden Arbeitssituationen
