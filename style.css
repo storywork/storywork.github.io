@@ -72,7 +72,7 @@ nav a:hover {
 	color: rgb(216, 0, 11);
 }
 
-.index a#index, .soziale-kompetenzen a#soziale-kompetenzen, .persoenlichkeitsentwicklung a#persoenlichkeitsentwicklung, .coaching-und-beratung a#coaching-und-beratung, .bibliodrama a#bibliodrama, .persoenliches a#persoenliches, .kontakt a#kontakt {
+.index a#index, .berufliche-kompetenzen a#berufliche-kompetenzen, .persoenlichkeitsentwicklung a#persoenlichkeitsentwicklung, .coaching-und-beratung a#coaching-und-beratung, .bibliodrama a#bibliodrama, .persoenliches a#persoenliches, .kontakt a#kontakt {
 	color: rgb(216, 0, 11);
 }
 
@@ -156,6 +156,7 @@ main strong {
 }
 
 .persoenliches main img {
+	margin-top: 100px;
 	width: 250px;
 	float: right;
 	position: relative;
