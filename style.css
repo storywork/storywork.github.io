@@ -139,16 +139,6 @@ main strong {
 	line-height: 1;
 }
 
-/*
-.persoenliches main {
-	display: flex;
-	flex-direction: row;
-	flex-wrap: wrap-reverse;
-	justify-content: right;
-	align-items: flex-end;
-}
-*/
-
 .persoenliches main a {
 	color: rgb(216, 0, 11);
 }
