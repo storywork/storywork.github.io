@@ -56,6 +56,8 @@ nav {
 	flex-direction: row;
 	flex-wrap: wrap;
 	justify-content: center;
+	padding-left: 50px;
+	padding-right: 50px;
 }
 
 nav a {
