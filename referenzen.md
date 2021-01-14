@@ -23,11 +23,13 @@ Lehrauftrag seit 2002 (Sozialpsychologisches Gruppentraining, Teamarbeit, Kommun
 
 - Stadtverwaltung Geislingen an der Steige
 
-- Stadtverwaltung Göppingen
+- Landratsamt Göppingen
 
 - Stadtverwaltung Heilbronn
 
 - Landratsamt Heidenheim
+
+- Stadtverwaltung Heidenheim
 
 - Stadtverwaltung Karlsruhe
 
